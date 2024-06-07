@@ -3,9 +3,9 @@ import React from 'react';
 const PerformanceSummaryTab = ({ data }) => {
   return (
     <>
-    <span className='font-normal mb-4'>Overall performance summary</span>
-    <div class="md:grid md:grid-cols-3 gap-4">
-        <div class="space-y-2">
+    <span className='font-normal m-4'>Overall performance summary</span>
+    <div class="md:grid md:grid-cols-3 gap-4 bg-gray-900">
+        <div class="space-y-2 m-3">
             <div>Start: <span class="text-blue-500">{data.start}</span></div>
             <div>End: <span class="text-green-500">{data.end}</span></div>
             <div>Duration: <span class="text-red-500">{data.duration}</span></div>
@@ -16,7 +16,7 @@ const PerformanceSummaryTab = ({ data }) => {
             <div>Buy and Hold Return: <span class="text-orange-500">{data.buyAndHoldReturn}%</span></div>
             <div>Return (Annualized): <span class="text-teal-500">{data.annualReturn}%</span></div>
         </div>
-        <div class="space-y-2">
+        <div class="space-y-2 m-3">
             <div>Volatility (Annualized): <span class="text-blue-500">{data.annualVolatility}%</span></div>
             <div>Sharpe Ratio: <span class="text-green-500">{data.sharpeRatio}</span></div>
             <div>Sortino Ratio: <span class="text-red-500">{data.sortinoRatio}</span></div>
@@ -27,7 +27,7 @@ const PerformanceSummaryTab = ({ data }) => {
             <div>Avg Drawdown Duration: <span class="text-orange-500">{data.avgDrawdownDuration}%</span></div>
             <div>Trades: <span class="text-teal-500">{data.trades}</span></div>
         </div>
-        <div class="space-y-2">
+        <div class="space-y-2 m-3">
             <div>Win Rate: <span class="text-blue-500">{data.winRate}%</span></div>
             <div>Best Trade: <span class="text-green-500">{data.bestTrade}%</span></div>
             <div>Worst Trade: <span class="text-red-500">{data.worstTrade}%</span></div>

@@ -2,7 +2,7 @@ import React from 'react';
 
 const PropertiesTab = ({ data }) => {
   return (
-    <div>
+    <div className='bg-gray-900 p-5'>
       <div>Initial Capital: <span  class="text-green-400">{data.initialCapital}</span></div>
       <div>Data Range: <span  class="text-amber-200">{data.dataRange}</span> </div>
       <div>Symbol Info: <span  class="text-rose-400">{data.symbolInfo}</span> </div>
