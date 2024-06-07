@@ -3,8 +3,11 @@ import './App.css'
 import Navbar from './components/Navbar'
 import Home from './components/Home';
 import About from './components/About';
+import Backtesting from './components/Backtesting';
+import StrategyBuilder from './components/StrategyBuilder';
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import SignUp from './components/SignUp';
+import { SignupFormDemo } from '../UI/SignupFormDemo';
+import { Loginpage } from '../UI/Loginpage';
 
 function App() {
   const router = createBrowserRouter([
@@ -12,14 +15,29 @@ function App() {
       path: "/",
       element: <><Navbar/><Home /></>,
     },
+
+    {
+      path: "/backtesting", 
+      element: <><Navbar/><Backtesting /></>,
+     },
+
+     {
+      path: "/strategybuilder", 
+      element: <><Navbar/><StrategyBuilder /></>,
+     },
+
     {
      path: "/about", 
      element: <><Navbar/><About /></>,
     },
     
     {
-      path: "/SignUp", 
-      element: <> <SignUp /></>,
+      path: "/signup", 
+      element: <> <SignupFormDemo /></>,
+     },
+     {
+      path: "/login", 
+      element: <> <Loginpage /></>,
      },
 
   ]);

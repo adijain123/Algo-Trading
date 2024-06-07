@@ -1,8 +1,14 @@
-import React, { useState } from 'react';
-import { Link, NavLink } from 'react-router-dom';
+import React from 'react';
+import { Link, NavLink, useNavigate } from 'react-router-dom';
 
 const Navbar = () => {
-  const [dropdownOpen, setDropdownOpen] = useState(false);
+  const navigate = useNavigate()
+  const handleLogout = () => {
+    localStorage.removeItem("authToken")
+    localStorage.removeItem("name")
+    localStorage.removeItem("email")
+    navigate("/")
+  }
 
   return (
     <div>
@@ -25,59 +31,32 @@ const Navbar = () => {
           </Link>
           <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-700 flex flex-wrap items-center text-base justify-center">
             <NavLink className={(e) => (e.isActive ? "mr-5 text-blue-500" : "mr-5 hover:text-white")} to="/">Home</NavLink>
-            <div className="relative">
-              <button
-                onClick={() => setDropdownOpen(!dropdownOpen)}
-                className={(dropdownOpen ? "mr-5 text-white" : "mr-5 hover:text-white") + " inline-flex items-center"}
-              >
-                Analyse
-                <svg
-                  fill="none"
-                  stroke="currentColor"
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  strokeWidth={2}
-                  className="w-4 h-4 ml-1"
-                  viewBox="0 0 24 24"
-                >
-                  <path d="M6 9l6 6 6-6" />
-                </svg>
-              </button>
-              {dropdownOpen && (
-                <div className="absolute bg-gray-800 text-white mt-2 py-2 w-48 rounded-md shadow-lg z-20">
-                  <NavLink
-                    className={(e) => (e.isActive ? "block px-4 py-2 text-blue-500" : "block px-4 py-2 hover:text-white")}
-                    to="/backtesting"
-                    onClick={() => setDropdownOpen(false)}
-                  >
-                    Backtesting
-                  </NavLink>
-                  <NavLink
-                    className={(e) => (e.isActive ? "block px-4 py-2 text-blue-500" : "block px-4 py-2 hover:text-white")}
-                    to="/strategy-builder"
-                    onClick={() => setDropdownOpen(false)}
-                  >
-                    Strategy Builder
-                  </NavLink>
-                </div>
-              )}
-            </div>
+            <NavLink className={(e) => (e.isActive ? "mr-5 text-blue-500" : "mr-5 hover:text-white")} to="/backtesting">Backtesting</NavLink>
+            <NavLink className={(e) => (e.isActive ? "mr-5 text-blue-500" : "mr-5 hover:text-white")} to="/strategybuilder">Strategy Builder</NavLink>
             <NavLink className={(e) => (e.isActive ? "mr-5 text-blue-500" : "mr-5 hover:text-white")} to="/about">About Us</NavLink>
           </nav>
-          <Link className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0" to="/SignUp">
-            Login / SignUp
-            <svg
-              fill="none"
-              stroke="currentColor"
-              strokeLinecap="round"
-              strokeLinejoin="round"
-              strokeWidth={2}
-              className="w-4 h-4 ml-1"
-              viewBox="0 0 24 24"
-            >
-              <path d="M5 12h14M12 5l7 7-7 7" />
-            </svg>
+          {(!localStorage.getItem("authToken")) ?
+          <>
+          <Link className="inline-flex mx-2 items-center font-bold bg-pink-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0" to="/login">
+            Login
           </Link>
+          <Link className="inline-flex items-center font-bold bg-pink-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0" to="/signup">
+            SignUp
+          </Link>
+          </>
+          :
+          <>
+          <Link className="inline-flex m-2 items-center bg-pink-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded font-bold text-base mt-4 md:mt-0" onClick={handleLogout}>
+            Logout
+          </Link>
+          <div className='inline-flex p-2 font-bold text-xl text-lime-200'>
+            Hey, {localStorage.getItem("name")}
+            <br />
+            {localStorage.getItem("email")}
+          </div>
+          </>
+
+          }
         </div>
       </header>
     </div>
