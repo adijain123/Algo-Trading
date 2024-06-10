@@ -51,7 +51,7 @@ const StockTicker = () => {
             <span className="font-bold">{stock.symbol}</span>
             <span className="ml-2">${stock.value}</span>
             <span className={`ml-2 ${String(stock.change).startsWith('-') ? 'text-red-500' : 'text-green-500'}`}>
-              {stock.change}
+              {stock.change}%
             </span>
           </div>
         ))}
@@ -60,7 +60,7 @@ const StockTicker = () => {
             <span className="font-bold">{stock.symbol}</span>
             <span className="ml-2">${stock.value}</span>
             <span className={`ml-2 ${String(stock.change).startsWith('-') ? 'text-red-500' : 'text-green-500'}`}>
-              {stock.change}
+              {stock.change}%
             </span>
           </div>
         ))}
