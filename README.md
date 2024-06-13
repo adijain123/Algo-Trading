@@ -1,10 +1,10 @@
 # AlgoTrading: Algorithmic Trading Platform
 
-Welcome to AlgoSynergy, your go-to platform for customizing and testing trading strategies effortlessly. With a rich set of features and tools, we aim to optimize your trading performance and maximize your profits.
+Welcome to Algo-Tradiing, your go-to platform for customizing and testing trading strategies effortlessly. With a rich set of features and tools, we aim to optimize your trading performance and maximize your profits.
 
 ## Features
 
-- **User-Friendly Interface**: AlgoSynergy offers an intuitive interface suitable for traders of all skill levels to input and customize their trading strategies.
+- **User-Friendly Interface**: Algo-Tradiing offers an intuitive interface suitable for traders of all skill levels to input and customize their trading strategies.
   
 - **Customizable Strategies**: Tailor your strategies to your preferences and goals by adjusting parameters like strategy type, entry/exit rules, position sizing, and risk management protocols.
   
@@ -16,7 +16,7 @@ Welcome to AlgoSynergy, your go-to platform for customizing and testing trading 
 
 ## Getting Started
 
-To begin using AlgoSynergy, follow these steps:
+To begin using Algo-Tradiing, follow these steps:
 
 1. **Sign Up**: Create an account on our platform to unlock access to a comprehensive range of features and services.
   
