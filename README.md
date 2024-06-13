@@ -1,4 +1,4 @@
-# AlgoSynergy: Algorithmic Trading Platform
+# AlgoTrading: Algorithmic Trading Platform
 
 Welcome to AlgoSynergy, your go-to platform for customizing and testing trading strategies effortlessly. With a rich set of features and tools, we aim to optimize your trading performance and maximize your profits.
 
