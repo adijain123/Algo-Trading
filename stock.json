@@ -1,0 +1,9427 @@
+[
+  {
+    "Symbol": "A.NYSE",
+    "Name": "Agilent Technologies Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AA.NYSE",
+    "Name": "Alcoa Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AAP.NYSE",
+    "Name": "Advance Auto Parts",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AAT.NYSE",
+    "Name": "American Assets Trust Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ABBV.NYSE",
+    "Name": "AbbVie Inc CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ABC.NYSE",
+    "Name": "AmerisourceBergen Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ABEV.NYSE",
+    "Name": "Ambev ADR Representing One Ord Shs",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ABM.NYSE",
+    "Name": "ABM Industries Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ABR.NYSE",
+    "Name": "Arbor Realty Trust Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ABT.NYSE",
+    "Name": "Abbott Labs CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ACB.NYSE",
+    "Name": "AURORA CANNABIS ACB.NYSE CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ACC.NYSE",
+    "Name": "American Campus Communities, Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ACI.NYSE",
+    "Name": "Albertsons Companies Inc - Class A",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ACM.NYSE",
+    "Name": "AECOM Technology Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ACN.NYSE",
+    "Name": "Accenture plc CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ACP.NYSE",
+    "Name": "Aberdeen Income Credit Strategies Fund",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ADC.NYSE",
+    "Name": "Agree Realty Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ADM.NYSE",
+    "Name": "Archer-Daniels-Midland Co",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ADNT.NYSE",
+    "Name": "Adient PLC",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ADT.NYSE",
+    "Name": "ADT Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ADX.NYSE",
+    "Name": "Adams Express Co",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AEE.NYSE",
+    "Name": "Ameren Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AEG.NYSE",
+    "Name": "Aegon NV",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AEM.NYSE",
+    "Name": "Agnico Eagle Mines Ltd (US)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AENZ.NYSE",
+    "Name": "Aenza SAA",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AEO.NYSE",
+    "Name": "American Eagle Outfitters",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AER.NYSE",
+    "Name": "AerCap Holdings NV",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AES.NYSE",
+    "Name": "AES Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AFG.NYSE",
+    "Name": "American Financial Group Inc/O",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AFL.NYSE",
+    "Name": "AFLAC Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AG.NYSE",
+    "Name": "First Majestic Silver Corp (US)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AGCO.NYSE",
+    "Name": "AGCO Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AGI.NYSE",
+    "Name": "Alamos Gold Inc (US)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AGN.NYSE",
+    "Name": "Allergan plc CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AGR.NYSE",
+    "Name": "Avangrid Inc. Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AGRO.NYSE",
+    "Name": "Adecoagro SA",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AIG.NYSE",
+    "Name": "American International Group",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AIN.NYSE",
+    "Name": "Albany International Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AIV.NYSE",
+    "Name": "Apartment Investment & Management",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AIZ.NYSE",
+    "Name": "Assurant",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AJG.NYSE",
+    "Name": "Arthur J. Gallagher & Co.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AJRD.NYSE",
+    "Name": "Aerojet Rocketdyne Holdings Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AKR.NYSE",
+    "Name": "Acadia Realty Trust",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AL.NYSE",
+    "Name": "Air Lease Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ALB.NYSE",
+    "Name": "Albemarle Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ALC.NYSE",
+    "Name": "Alcon Inc (US)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ALEX.NYSE",
+    "Name": "Alexander & Baldwin Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ALG.NYSE",
+    "Name": "Alamo Group Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ALK.NYSE",
+    "Name": "Alaska Air Group Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ALL.NYSE",
+    "Name": "Allstate Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ALLE.NYSE",
+    "Name": "Allegion",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ALLY.NYSE",
+    "Name": "Ally Financial Inc. Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ALTG.NYSE",
+    "Name": "Alta Equipment Group Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ALX.NYSE",
+    "Name": "Alexander's Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AM.NYSE",
+    "Name": "Antero Midstream Partners LP",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AMCR.NYSE",
+    "Name": "Amcor plc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AME.NYSE",
+    "Name": "AMETEK Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AMG.NYSE",
+    "Name": "Affiliated Managers Group Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AMH.NYSE",
+    "Name": "American Homes 4 Rent",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AMP.NYSE",
+    "Name": "Ameriprise Financial",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AMR.NYSE",
+    "Name": "Alpha Metallurgi",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AMRC.NYSE",
+    "Name": "Ameresco Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AMRX.NYSE",
+    "Name": "Amneal Pharmaceuticals",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AMT.NYSE",
+    "Name": "American Tower Corporation (REIT) CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AMWL.NYSE",
+    "Name": "American Well Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AMX.NYSE",
+    "Name": "America Movil",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AN.NYSE",
+    "Name": "AutoNation",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ANET.NYSE",
+    "Name": "Arista Networks",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ANF.NYSE",
+    "Name": "Abercrombie",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ANTM.NYSE",
+    "Name": "Anthem Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AOD.NYSE",
+    "Name": "Aberdeen Total Dynamic Dividend Fund",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AON.NYSE",
+    "Name": "Aon plc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AOS.NYSE",
+    "Name": "A.O. Smith Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "APD.NYSE",
+    "Name": "Air Products & Chemicals Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "APH.NYSE",
+    "Name": "Amphenol Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "APO.NYSE",
+    "Name": "Apollo Global Management Inc. Class A Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "APRN.NYSE",
+    "Name": "Blue Apron Holdings, Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "APTV.NYSE",
+    "Name": "Aptiv PLC",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AQUA.NYSE",
+    "Name": "Evoqua Water Technologies Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AR.NYSE",
+    "Name": "Antero Resources Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ARCH.NYSE",
+    "Name": "Arch Coal Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ARCO.NYSE",
+    "Name": "Arcos Dorados Holdings Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ARE.NYSE",
+    "Name": "Alexandria Real Estate Equities",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ARGO.NYSE",
+    "Name": "Argo Group International Holdings",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ARKF.NYSE",
+    "Name": "ARK Fintech Innovation ETF",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ARKK.NYSE",
+    "Name": "Thomson Reuters Corp (US)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ARMK.NYSE",
+    "Name": "Aramark Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AROC.NYSE",
+    "Name": "Archrock Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ARR.NYSE",
+    "Name": "ARMOUR Residential REIT Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ARW.NYSE",
+    "Name": "Arrow Electronics Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ASAN.NYSE",
+    "Name": "Asana Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ASH.NYSE",
+    "Name": "Ashland",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ASIX.NYSE",
+    "Name": "AdvanSix Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ATGE.NYSE",
+    "Name": "Adtalem Global Education Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ATHM.NYSE",
+    "Name": "Autohome Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ATI.NYSE",
+    "Name": "Allegheny Technologies",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ATO.NYSE",
+    "Name": "Atmos Energy",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ATUS.NYSE",
+    "Name": "Altice USA Inc. Class A Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AU.NYSE",
+    "Name": "AngloGold Ashanti Limited",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AUY.NYSE",
+    "Name": "Yamana Gold Inc (US)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AVB.NYSE",
+    "Name": "AvalonBay Communities",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AVD.NYSE",
+    "Name": "American Vanguard Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AVK.NYSE",
+    "Name": "Advent Claymore Convertible Securities and Income Fund",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AVLR.NYSE",
+    "Name": "Avalara Inc. Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AVTR.NYSE",
+    "Name": "Avantor, Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AVY.NYSE",
+    "Name": "Avery Dennison Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AWK.NYSE",
+    "Name": "American Water Works Company Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AWP.NYSE",
+    "Name": "Aberdeen Global Premier Properties Fund",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AX.NYSE",
+    "Name": "Axos Financial Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AXL.NYSE",
+    "Name": "American Axle & Manufacturing",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AXP.NYSE",
+    "Name": "American Express CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AXS.NYSE",
+    "Name": "Axis Capital Holdings Ltd",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AXTA.NYSE",
+    "Name": "Axalta Coating Systems Ltd",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AYI.NYSE",
+    "Name": "Acuity Brands Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AYX.NYSE",
+    "Name": "Alteryx, Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AZO.NYSE",
+    "Name": "AutoZone Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AZUL.NYSE",
+    "Name": "Azul SA ADR",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BA.NYSE",
+    "Name": "Boeing Co CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BABA.NYSE",
+    "Name": "Alibaba Group Holding Limited CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BAC.NYSE",
+    "Name": "Bank Of America CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BAH.NYSE",
+    "Name": "Booz Allen Hamilton Holding Corporation Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BAM.NYSE",
+    "Name": "Brookfield Asset Management Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BAX.NYSE",
+    "Name": "Baxter International Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BB.NYSE",
+    "Name": "Blackberry",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BBAR.NYSE",
+    "Name": "BBVA Argentina SA",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BBD.NYSE",
+    "Name": "Banco Bradesco",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BBW.NYSE",
+    "Name": "Build-A-Bear Workshop Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BBY.NYSE",
+    "Name": "Best Buy Co. Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BC.NYSE",
+    "Name": "Brunswick Corp/DE",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BCO.NYSE",
+    "Name": "Brink's Co/The",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BCS.NYSE",
+    "Name": "Barclays PLC",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BDC.NYSE",
+    "Name": "Belden Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BDJ.NYSE",
+    "Name": "BlackRock Enhanced Equity Dividend Trust",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BDN.NYSE",
+    "Name": "Brandywine Realty Trust",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BDX.NYSE",
+    "Name": "Becton Dickinson",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BE.NYSE",
+    "Name": "Bloom Energy Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BEN.NYSE",
+    "Name": "Franklin Resources",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BERY.NYSE",
+    "Name": "Berry Plastics Group Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BEST.NYSE",
+    "Name": "BEST Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BF/B.NYSE",
+    "Name": "Brown-Forman Corp.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BFAM.NYSE",
+    "Name": "Bright Horizons Family Solutions Inc. Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BFH.NYSE",
+    "Name": "Bread Financial Holdings Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BG.NYSE",
+    "Name": "Bunge Limited Bunge Limited",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BHLB.NYSE",
+    "Name": "Berkshire Hills Bancorp Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BIG.NYSE",
+    "Name": "Big Lots",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BIO.NYSE",
+    "Name": "Bio-Rad Laboratories",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BIP.NYSE",
+    "Name": "Brookfield Infrastructure Partners LP (US)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BJ.NYSE",
+    "Name": "BJ's Wholesale Club Holdings, Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BK.NYSE",
+    "Name": "The Bank of New York Mellon",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BKD.NYSE",
+    "Name": "Brookdale Senior Living Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BKR.NYSE",
+    "Name": "Baker Hughes Co",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BLK.NYSE",
+    "Name": "Blackrock Inc CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BLL.NYSE",
+    "Name": "Ball Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BMI.NYSE",
+    "Name": "Badger Meter Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BMY.NYSE",
+    "Name": "Bristol Myers Sq CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BOOT.NYSE",
+    "Name": "Boot Barn Holdings",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BOX.NYSE",
+    "Name": "Box Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BR.NYSE",
+    "Name": "Broadridge Financial Solutions",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BRFS.NYSE",
+    "Name": "BRF SA",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BRK-B.NYSE",
+    "Name": "Berkshire Hathaway Inc - B Shares CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BRO.NYSE",
+    "Name": "Brown & Brown Inc. Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BRX.NYSE",
+    "Name": "Brixmor Property Group Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BSAC.NYSE",
+    "Name": "Banco Santander Chile",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BSX.NYSE",
+    "Name": "Boston Scientific",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BTI.NYSE",
+    "Name": "British American Tobacco PLC",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BUD.NYSE",
+    "Name": "Anheuser Busch Inbev SA",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BURL.NYSE",
+    "Name": "Burlington Stores Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BW.NYSE",
+    "Name": "Babcock & Wilcox Enterprises Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BWA.NYSE",
+    "Name": "BorgWarner",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BX.NYSE",
+    "Name": "The Blackstone Group Inc. Class A Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BXMT.NYSE",
+    "Name": "Blackstone Mortgage Trust Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BXP.NYSE",
+    "Name": "Boston Properties",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BXS.NYSE",
+    "Name": "BancorpSouth Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "BYD.NYSE",
+    "Name": "Boyd Gaming Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "C.NYSE",
+    "Name": "Citigroup CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CADE.NYSE",
+    "Name": "Cadence Bancorp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CAG.NYSE",
+    "Name": "Conagra Brands",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CAH.NYSE",
+    "Name": "Cardinal Health Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CAL.NYSE",
+    "Name": "Caleres Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CALX.NYSE",
+    "Name": "Calix Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CAPL.NYSE",
+    "Name": "CrossAmerica Partners LP",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CARR.NYSE",
+    "Name": "Carrier Global",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CARS.NYSE",
+    "Name": "Cars.com Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CAS.NYSE",
+    "Name": "Cascade Acquisition Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CAT.NYSE",
+    "Name": "Caterpillar Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CATO.NYSE",
+    "Name": "Cato Corp/The",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CB.NYSE",
+    "Name": "Chubb Ltd",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CBB.NYSE",
+    "Name": "Cincinnati Bell Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CBD.NYSE",
+    "Name": "Companhia Brasileira de Distribuicao",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CBRE.NYSE",
+    "Name": "CBRE Group",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CBU.NYSE",
+    "Name": "Community Bank System Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CC.NYSE",
+    "Name": "Chemours Co",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CCEP.NYSE",
+    "Name": "Coca-Cola European Partners",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CCI.NYSE",
+    "Name": "Crown Castle International Corp.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CCIV.NYSE",
+    "Name": "Churchill Capital Corp IV Class A Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CCJ.NYSE",
+    "Name": "Cameco Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CCK.NYSE",
+    "Name": "Crown Holdings Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CCL.NYSE",
+    "Name": "Carnival Corp.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CCU.NYSE",
+    "Name": "Cia Cervecerias Unidas SA",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CDAY.NYSE",
+    "Name": "Ceridian HCM Holding Inc. Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CDE.NYSE",
+    "Name": "Coeur d'Alene Mines Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CDR.NYSE",
+    "Name": "Cedar Realty Trust Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CE.NYSE",
+    "Name": "Celanese",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CEN.NYSE",
+    "Name": "Center Coast MLP & Infrastructure Fund",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CF.NYSE",
+    "Name": "CF Industries Holdings Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CFG.NYSE",
+    "Name": "Citizens Financial Group",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CGC.NYSE",
+    "Name": "Canopy Growth Corp. CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CHD.NYSE",
+    "Name": "Church & Dwight",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CHE.NYSE",
+    "Name": "Chemed Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CHGG.NYSE",
+    "Name": "Chegg Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CHS.NYSE",
+    "Name": "Chico's FAS Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CHWY.NYSE",
+    "Name": "Chewy, Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CI.NYSE",
+    "Name": "CIGNA Corp.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CIEN.NYSE",
+    "Name": "Ciena",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CIG.NYSE",
+    "Name": "Companhia Energetica De Minas Gerais Cemig",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CIM.NYSE",
+    "Name": "Chimera Investment Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CL.NYSE",
+    "Name": "Colgate-Palmolive",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CLDR.NYSE",
+    "Name": "Cloudera Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CLDT.NYSE",
+    "Name": "Chatham Lodging Trust",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CLF.NYSE",
+    "Name": "Cleveland-Cliffs Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CLI.NYSE",
+    "Name": "Mack-Cali Realty Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CLR.NYSE",
+    "Name": "Continental Resources, Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CLS.NYSE",
+    "Name": "Celestica Inc (US)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CLX.NYSE",
+    "Name": "The Clorox Company",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CMA.NYSE",
+    "Name": "Comerica Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CMC.NYSE",
+    "Name": "Commercial Metals Co",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CMG.NYSE",
+    "Name": "Chipotle Mexican Grill",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CMI.NYSE",
+    "Name": "Cummins Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CMRE.NYSE",
+    "Name": "Costamare Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CMS.NYSE",
+    "Name": "CMS Energy",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CNC.NYSE",
+    "Name": "Centene Corporation",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CNHI.NYSE",
+    "Name": "CNH Industrial (US)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CNK.NYSE",
+    "Name": "Cinemark Holdings Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CNMD.NYSE",
+    "Name": "CONMED Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CNO.NYSE",
+    "Name": "CNO Financial Group Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CNP.NYSE",
+    "Name": "CenterPoint Energy",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CNR.NYSE",
+    "Name": "Cornerstone Building Brands Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CNX.NYSE",
+    "Name": "CNX Resources Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CO.NYSE",
+    "Name": "Global Cord Blood Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "COF.NYSE",
+    "Name": "Capital One Financial",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "COG.NYSE",
+    "Name": "Cabot Oil & Gas",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "COLD.NYSE",
+    "Name": "AmeriCold Realty Trust",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "COO.NYSE",
+    "Name": "The Cooper Companies",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "COP.NYSE",
+    "Name": "ConocoPhillips",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CORR.NYSE",
+    "Name": "CorEnergy Infrastructure Trust Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "COTY.NYSE",
+    "Name": "Coty Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "COUR.NYSE",
+    "Name": "Coursera, Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CPA.NYSE",
+    "Name": "Copa Holdings SA",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CPAC.NYSE",
+    "Name": "Cementos Pacasmayo SAA",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CPB.NYSE",
+    "Name": "Campbell Soup",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CPE.NYSE",
+    "Name": "Callon Petroleum Co",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CPRI.NYSE",
+    "Name": "Capri Holdings Ltd",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CPT.NYSE",
+    "Name": "Camden Property Trust Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CRI.NYSE",
+    "Name": "Carter's Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CRK.NYSE",
+    "Name": "Comstock Resources Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CRL.NYSE",
+    "Name": "Charles River Laboratories International Inc. Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CRM.NYSE",
+    "Name": "Salesforce.com",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CS.NYSE",
+    "Name": "Credit Suisse Group AG",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CSLT.NYSE",
+    "Name": "Castlight Health Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CSR.NYSE",
+    "Name": "Centerspace",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CTLT.NYSE",
+    "Name": "Catalent",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CTT.NYSE",
+    "Name": "CatchMark Timber Trust Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CTVA.NYSE",
+    "Name": "Corteva",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CUBE.NYSE",
+    "Name": "CubeSmart",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CUK.NYSE",
+    "Name": "Carnival Plc ADS ADS",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CUZ.NYSE",
+    "Name": "Cousins Properties Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CVA.NYSE",
+    "Name": "Covanta Holding Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CVE.NYSE",
+    "Name": "Cenovus Energy Inc (US)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CVI.NYSE",
+    "Name": "CVR Energy Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CVNA.NYSE",
+    "Name": "Carvana Co. Class A Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CVS.NYSE",
+    "Name": "CVS Health Corp CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CVX.NYSE",
+    "Name": "Chevron Corp CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CW.NYSE",
+    "Name": "Curtiss-Wright Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CWEN.NYSE",
+    "Name": "Clearway Energy Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CWT.NYSE",
+    "Name": "California Water Service Group",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CX.NYSE",
+    "Name": "CEMEX",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CXP.NYSE",
+    "Name": "Columbia Property Trust Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CYH.NYSE",
+    "Name": "Community Health Systems Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "CZOO.NYSE",
+    "Name": "Cazoo Group Ltd",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "D.NYSE",
+    "Name": "Dominion Energy",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DAL.NYSE",
+    "Name": "Delta Air Lines Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DAN.NYSE",
+    "Name": "Dana Holding Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DAR.NYSE",
+    "Name": "Darling Ingredients Inc. Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DASH.NYSE",
+    "Name": "DoorDash Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DB.NYSE",
+    "Name": "Deutsche Bank AG (US)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DBA.NYSE",
+    "Name": "Invesco DB Agriculture ETF CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DBD.NYSE",
+    "Name": "Diebold Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DBI.NYSE",
+    "Name": "Designer Brands Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DBRG.NYSE",
+    "Name": "DigitalBridge Group Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DCI.NYSE",
+    "Name": "Donaldson Co Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DD.NYSE",
+    "Name": "DuPont de Nemours Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DDD.NYSE",
+    "Name": "3D Systems Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DDS.NYSE",
+    "Name": "Dillard's",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DE.NYSE",
+    "Name": "Deere & Co.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DECK.NYSE",
+    "Name": "Deckers Outdoor Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DEI.NYSE",
+    "Name": "Douglas Emmett Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DELL.NYSE",
+    "Name": "Dell Technologies Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DEN.NYSE",
+    "Name": "Denbury Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DEO.NYSE",
+    "Name": "Diageo plc CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DFS.NYSE",
+    "Name": "Discover Financial Services",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DG.NYSE",
+    "Name": "Dollar General",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DGX.NYSE",
+    "Name": "Quest Diagnostics",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DHI.NYSE",
+    "Name": "D. R. Horton",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DHR.NYSE",
+    "Name": "Danaher Corp.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DHT.NYSE",
+    "Name": "DHT Holdings Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DIN.NYSE",
+    "Name": "DineEquity Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DIS.NYSE",
+    "Name": "Walt Disney Co CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DK.NYSE",
+    "Name": "Delek US Holdings Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DKS.NYSE",
+    "Name": "Dick's Sporting Goods Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DLR.NYSE",
+    "Name": "Digital Realty Trust Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DNOW.NYSE",
+    "Name": "NOW Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DOV.NYSE",
+    "Name": "Dover Corporation",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DOW.NYSE",
+    "Name": "Dow Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DPZ.NYSE",
+    "Name": "Domino's Pizza",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DRE.NYSE",
+    "Name": "Duke Realty Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DRH.NYSE",
+    "Name": "DiamondRock Hospitality Co",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DRI.NYSE",
+    "Name": "Darden Restaurants",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DS.NYSE",
+    "Name": "Drive Shack Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DT.NYSE",
+    "Name": "Dynatrace Inc. Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DTE.NYSE",
+    "Name": "DTE Energy Co.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DUK.NYSE",
+    "Name": "Duke Energy",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DVA.NYSE",
+    "Name": "DaVita Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DVN.NYSE",
+    "Name": "Devon Energy",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DX.NYSE",
+    "Name": "Dynex Capital Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "DXC.NYSE",
+    "Name": "DXC Technology",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EAT.NYSE",
+    "Name": "Brinker International Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EB.NYSE",
+    "Name": "Eventbrite, Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EBS.NYSE",
+    "Name": "Emergent Biosolutions Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EC.NYSE",
+    "Name": "Ecopetrol SA",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ECL.NYSE",
+    "Name": "Ecolab Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ED.NYSE",
+    "Name": "Consolidated Edison",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EDU.NYSE",
+    "Name": "New Oriental Education & Techn",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EEM.NYSE",
+    "Name": "Shares MSCI Emerging Markets ETF CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EEX.NYSE",
+    "Name": "Emerald Holding Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EFX.NYSE",
+    "Name": "Equifax Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EGHT.NYSE",
+    "Name": "8x8 Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EGO.NYSE",
+    "Name": "Eldorado Gold Corp (US)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EGP.NYSE",
+    "Name": "EastGroup Properties Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EHC.NYSE",
+    "Name": "Encompass Health Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EIX.NYSE",
+    "Name": "Edison Int'l",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EL.NYSE",
+    "Name": "Est�e Lauder Companies",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ELAN.NYSE",
+    "Name": "Elanco Animal Health Incorporated Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ELF.NYSE",
+    "Name": "e.l.f. Beauty Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ELS.NYSE",
+    "Name": "Equity Lifestyle Properties Inc. Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EME.NYSE",
+    "Name": "EMCOR Group Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EMN.NYSE",
+    "Name": "Eastman Chemical",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EMR.NYSE",
+    "Name": "Emerson Electric Company",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ENBL.NYSE",
+    "Name": "Enable Midstream Partners LP",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ENPC.NYSE",
+    "Name": "Executive Network Partnering Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ENR.NYSE",
+    "Name": "Energizer Holdings Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ENS.NYSE",
+    "Name": "EnerSys Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ENV.NYSE",
+    "Name": "Envestnet Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EOG.NYSE",
+    "Name": "EOG Resources",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EPAM.NYSE",
+    "Name": "EPAM Systems Inc. Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EPC.NYSE",
+    "Name": "Edgewell Personal Care Co",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EPD.NYSE",
+    "Name": "Enterprise Products Partners L.P. Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EPR.NYSE",
+    "Name": "EPR Properties",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EPRT.NYSE",
+    "Name": "Essential Properties Realty Trust Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EQC.NYSE",
+    "Name": "Equity Commonwealth",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EQH.NYSE",
+    "Name": "Equitable Holdings Inc. Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EQNR.NYSE",
+    "Name": "Equinor ASA - ADR",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EQR.NYSE",
+    "Name": "Equity Residential",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EQT.NYSE",
+    "Name": "EQT",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ES.NYSE",
+    "Name": "Eversource Energy",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ESGC.NYSE",
+    "Name": "Eros Stx Global Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ESNT.NYSE",
+    "Name": "Essent Group Ltd",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ESRT.NYSE",
+    "Name": "Empire State Realty Trust Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ESS.NYSE",
+    "Name": "Essex Property Trust, Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ESTC.NYSE",
+    "Name": "Elastic N.V. Ordinary Shares",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ET.NYSE",
+    "Name": "Energy Transfer LP Common Units",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ETN.NYSE",
+    "Name": "Eaton Corporation",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ETR.NYSE",
+    "Name": "Entergy Corp.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EVRG.NYSE",
+    "Name": "Evergy",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EVRI.NYSE",
+    "Name": "Everi Holdings Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EW.NYSE",
+    "Name": "Edwards Lifesciences",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EWH.NYSE",
+    "Name": "iShares MSCI Hong Kong ETF CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EWW.NYSE",
+    "Name": "iShares MSCI Mexico Capped ETF CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EWZ.NYSE",
+    "Name": "iShares MSCI Brazil Capped ETF CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EXK.NYSE",
+    "Name": "Endeavour Silver Corp (US)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EXPR.NYSE",
+    "Name": "Express Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "EXR.NYSE",
+    "Name": "Extra Space Storage",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "F.NYSE",
+    "Name": "Ford Motor Company",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FAF.NYSE",
+    "Name": "First American Financial Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FAX.NYSE",
+    "Name": "Aberdeen Asia-Pacific Income Fund Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FBHS.NYSE",
+    "Name": "Fortune Brands Home & Security",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FBP.NYSE",
+    "Name": "First BanCorp/Puerto Rico",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FCN.NYSE",
+    "Name": "FTI Consulting Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FCPT.NYSE",
+    "Name": "Four Corners Property Trust",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FCX.NYSE",
+    "Name": "Freeport-McMoRan Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FDS.NYSE",
+    "Name": "FactSet Research Systems Inc. Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FDX.NYSE",
+    "Name": "FedEx Corporation",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FE.NYSE",
+    "Name": "FirstEnergy Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FHN.NYSE",
+    "Name": "First Horizon",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FI.NYSE",
+    "Name": "Frank's International NV",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FICO.NYSE",
+    "Name": "Fair Isaac Corproation Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FIS.NYSE",
+    "Name": "Fidelity National Information Services",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FL.NYSE",
+    "Name": "Foot Locker Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FLO.NYSE",
+    "Name": "Flowers Foods Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FLR.NYSE",
+    "Name": "Fluor Corporation",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FLS.NYSE",
+    "Name": "Flowserve Corporation",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FLT.NYSE",
+    "Name": "FleetCor Technologies Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FMC.NYSE",
+    "Name": "FMC Corporation",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FNF.NYSE",
+    "Name": "FNF Group of Fidelity National Financial Inc. Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FOUR.NYSE",
+    "Name": "Shift4 Payments Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FPI.NYSE",
+    "Name": "Farmland Partners Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FR.NYSE",
+    "Name": "First Industrial Realty Trust",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FRC.NYSE",
+    "Name": "First Republic Bank",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FRT.NYSE",
+    "Name": "Federal Realty Investment Trust",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FSK.NYSE",
+    "Name": "FS KKR Capital Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FSM.NYSE",
+    "Name": "Fortuna Silver Mines Inc (US)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FSR.NYSE",
+    "Name": "Fisker Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FTAI.NYSE",
+    "Name": "Fortress Transportation & Infrastructure Investors",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FTCH.NYSE",
+    "Name": "Farfetch Limited",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FTI.NYSE",
+    "Name": "TechnipFMC",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FTV.NYSE",
+    "Name": "Fortive Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FUN.NYSE",
+    "Name": "Cedar Fair LP",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FVRR.NYSE",
+    "Name": "Fiverr International Ltd.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "FXI.NYSE",
+    "Name": "iShares China Large-Cap ETF CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GCI.NYSE",
+    "Name": "Gannett Co Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GD.NYSE",
+    "Name": "General Dynamics",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GDDY.NYSE",
+    "Name": "GoDaddy Inc. Class A Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GDOT.NYSE",
+    "Name": "Green Dot Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GDX.NYSE",
+    "Name": "Vaneck Vectors Gold Miners ETF CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GDXJ.NYSE",
+    "Name": "VanEck Vectors Junior Gold Miners ETF CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GE.NYSE",
+    "Name": "General Elec Co CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GEF.NYSE",
+    "Name": "Greif Inc - A",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GEL.NYSE",
+    "Name": "Genesis Energy LP",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GEO.NYSE",
+    "Name": "Geo Group Inc/The",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GES.NYSE",
+    "Name": "Guess? Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GFI.NYSE",
+    "Name": "Gold Fields Ltd (US)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GGB.NYSE",
+    "Name": "Gerdau",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GHC.NYSE",
+    "Name": "Graham Holdings Co",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GIB.NYSE",
+    "Name": "CGI Group Inc (US)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GIS.NYSE",
+    "Name": "General Mills",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GKOS.NYSE",
+    "Name": "Glaukos Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GL.NYSE",
+    "Name": "Globe Life Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GLOG.NYSE",
+    "Name": "GasLog Ltd",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GLP.NYSE",
+    "Name": "Global Partners LP/MA",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GLW.NYSE",
+    "Name": "Corning Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GM.NYSE",
+    "Name": "General Motors",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GME.NYSE",
+    "Name": "GameStop",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GMED.NYSE",
+    "Name": "Globus Medical Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GMRE.NYSE",
+    "Name": "Global Medical REIT Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GMS.NYSE",
+    "Name": "GMS Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GNK.NYSE",
+    "Name": "Genco Shipping & Trading Ltd",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GNL.NYSE",
+    "Name": "Global Net Lease Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GNRC.NYSE",
+    "Name": "Generac Holdlings Inc. Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GNW.NYSE",
+    "Name": "Genworth Financial",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GOL.NYSE",
+    "Name": "Gol Linhas Aereas Inteligentes",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GOLD.NYSE",
+    "Name": "Barrick Gold Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GPI.NYSE",
+    "Name": "Group 1 Automotive Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GPK.NYSE",
+    "Name": "Graphic Packaging Holding Co",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GPN.NYSE",
+    "Name": "Global Payments Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GPS.NYSE",
+    "Name": "Gap Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GRA.NYSE",
+    "Name": "WR Grace & Co",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GRUB.NYSE",
+    "Name": "GrubHub Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GS.NYSE",
+    "Name": "Goldman Sachs CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GSK.NYSE",
+    "Name": "GlaxoSmithKline (US)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GTN.NYSE",
+    "Name": "Gray Television Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GTY.NYSE",
+    "Name": "Getty Realty Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GVA.NYSE",
+    "Name": "Granite Construction Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GWRE.NYSE",
+    "Name": "Guidewire Software Inc. Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "GWW.NYSE",
+    "Name": "Grainger (W.W.) Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "H.NYSE",
+    "Name": "Hyatt Hotels",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HAE.NYSE",
+    "Name": "Haemonetics Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HAL.NYSE",
+    "Name": "Halliburton Co.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HASI.NYSE",
+    "Name": "Hannon Armstrong Sustainable Infrastructure Capital Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HBI.NYSE",
+    "Name": "Hanesbrands Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HCA.NYSE",
+    "Name": "HCA Healthcare",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HD.NYSE",
+    "Name": "Home Depot CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HEI.NYSE",
+    "Name": "Heico Corporation Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HES.NYSE",
+    "Name": "Hess Corporation",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HFC.NYSE",
+    "Name": "HollyFrontier Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HGV.NYSE",
+    "Name": "Hilton Grand Vacations",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HHC.NYSE",
+    "Name": "Howard Hughes Corp/The",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HIG.NYSE",
+    "Name": "Hartford Financial Svc.Gp.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HII.NYSE",
+    "Name": "Huntington Ingalls Industries",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HIW.NYSE",
+    "Name": "Highwoods Properties Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HLF.NYSE",
+    "Name": "Herbalife Ltd",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HLT.NYSE",
+    "Name": "Hilton Worldwide Holdings Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HLX.NYSE",
+    "Name": "Helix Energy Solutions Group I",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HMC.NYSE",
+    "Name": "Honda Motor Co Ltd",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HMY.NYSE",
+    "Name": "Harmony Gold Mining Co Ltd",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HOG.NYSE",
+    "Name": "Harley Davidson",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HOME.NYSE",
+    "Name": "At Home Group Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HON.NYSE",
+    "Name": "Honeywell International Inc CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HP.NYSE",
+    "Name": "Helmerich",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HPE.NYSE",
+    "Name": "Hewlett Packard Enterprise",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HPP.NYSE",
+    "Name": "Hudson Pacific Properties Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HPQ.NYSE",
+    "Name": "HP Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HR.NYSE",
+    "Name": "Healthcare Realty Trust Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HRB.NYSE",
+    "Name": "H&R Block",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HRL.NYSE",
+    "Name": "Hormel Foods Corp.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HSBC.NYSE",
+    "Name": "HSBC Holdings plc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HSC.NYSE",
+    "Name": "Harsco Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HSY.NYSE",
+    "Name": "The Hershey Company",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HTA.NYSE",
+    "Name": "Healthcare Trust of America Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HTGC.NYSE",
+    "Name": "Hercules Technology Growth Capital Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HUBB.NYSE",
+    "Name": "Hubbell Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HUBS.NYSE",
+    "Name": "HubSpot Inc. Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HUM.NYSE",
+    "Name": "Humana Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HUN.NYSE",
+    "Name": "Huntsman",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HWM.NYSE",
+    "Name": "Howmet Aerospace",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HXL.NYSE",
+    "Name": "Hexcel Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HYLN.NYSE",
+    "Name": "Hyliion Holdings Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "HYT.NYSE",
+    "Name": "BlackRock Corporate High Yield Fund Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "IAU.NYSE",
+    "Name": "iShares Gold Trust (US)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "IBM.NYSE",
+    "Name": "IBM CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "IBP.NYSE",
+    "Name": "Installed Building Products Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ICE.NYSE",
+    "Name": "Intercontinental Exchange",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "IDA.NYSE",
+    "Name": "IDACORP Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "IEMG.NYSE",
+    "Name": "iShares Core MSCI Emerging Markets ETF CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "IEX.NYSE",
+    "Name": "IDEX Corporation",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "IFF.NYSE",
+    "Name": "International Flavors & Fragrances",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "IGT.NYSE",
+    "Name": "International Game Technology",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "IHS.NYSE",
+    "Name": "IHS Holding Limited",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "IIPR.NYSE",
+    "Name": "Innovative Industrial Properties Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "IMAX.NYSE",
+    "Name": "IMAX Corp (US)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "INFO.NYSE",
+    "Name": "IHS Markit Ltd.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "INFY.NYSE",
+    "Name": "Infosys Technologies",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ING.NYSE",
+    "Name": "ING Groep NV - ADR",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "INGR.NYSE",
+    "Name": "Ingredion Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "INN.NYSE",
+    "Name": "Summit Hotel Properties Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "INSP.NYSE",
+    "Name": "Inspire Medical Systems Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "INVH.NYSE",
+    "Name": "Invitation Homes Inc. Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "IP.NYSE",
+    "Name": "International Paper",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "IPG.NYSE",
+    "Name": "Interpublic Group",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "IQV.NYSE",
+    "Name": "IQVIA Holdings Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "IR.NYSE",
+    "Name": "Ingersoll Rand",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "IRM.NYSE",
+    "Name": "Iron Mountain Incorporated",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "IRT.NYSE",
+    "Name": "Independence Realty Trust Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "IT.NYSE",
+    "Name": "Gartner Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ITUB.NYSE",
+    "Name": "Itau Unibanco Holding SA",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ITW.NYSE",
+    "Name": "Illinois Tool Works",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "IVR.NYSE",
+    "Name": "Invesco Mortgage Capital Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "IVZ.NYSE",
+    "Name": "Invesco Ltd.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "J.NYSE",
+    "Name": "Jacobs Engineering Group",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "JBGS.NYSE",
+    "Name": "JBG SMITH Properties",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "JBL.NYSE",
+    "Name": "Jabil Circuit",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "JBT.NYSE",
+    "Name": "John Bean Technologies Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "JCI.NYSE",
+    "Name": "Johnson Controls International",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "JEF.NYSE",
+    "Name": "Jefferies Financial Group Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "JLL.NYSE",
+    "Name": "Jones Lang LaSalle Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "JMIA.NYSE",
+    "Name": "Jumia Technologies AG",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "JNJ.NYSE",
+    "Name": "Johnson and Johnson CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "JNPR.NYSE",
+    "Name": "Juniper Networks",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "JOE.NYSE",
+    "Name": "St Joe Co/The",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "JPM.NYSE",
+    "Name": "J.P. Morgan Chase CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "JWN.NYSE",
+    "Name": "Nordstrom",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "K.NYSE",
+    "Name": "Kellogg Co.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "KAR.NYSE",
+    "Name": "KAR Auction Services Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "KBH.NYSE",
+    "Name": "KB Home",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "KBR.NYSE",
+    "Name": "KBR Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "KEN.NYSE",
+    "Name": "Kenon Holdings Ltd",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "KEY.NYSE",
+    "Name": "KeyCorp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "KEYS.NYSE",
+    "Name": "Keysight Technologies",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "KGC.NYSE",
+    "Name": "Kinross Gold Corp (US)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "KIM.NYSE",
+    "Name": "Kimco Realty",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "KKR.NYSE",
+    "Name": "KKR & Co. Inc. Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "KMB.NYSE",
+    "Name": "Kimberly-Clark",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "KMI.NYSE",
+    "Name": "Kinder Morgan",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "KMT.NYSE",
+    "Name": "Kennametal Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "KMX.NYSE",
+    "Name": "Carmax Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "KNX.NYSE",
+    "Name": "Knight-Swift Transportation Co",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "KO.NYSE",
+    "Name": "Coca Cola Co CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "KOS.NYSE",
+    "Name": "Kosmos Energy Ltd",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "KR.NYSE",
+    "Name": "Kroger Co.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "KRC.NYSE",
+    "Name": "Kilroy Realty Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "KRO.NYSE",
+    "Name": "Kronos Worldwide Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "KSS.NYSE",
+    "Name": "Kohl's Corporation",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "KSU.NYSE",
+    "Name": "Kansas City Southern",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "KW.NYSE",
+    "Name": "Kennedy-Wilson Holdings Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "L.NYSE",
+    "Name": "Loews Corp.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LAD.NYSE",
+    "Name": "Lithia Motors Inc. Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LAW.NYSE",
+    "Name": "CS Disco Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LAZ.NYSE",
+    "Name": "Lazard Ltd",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LB.NYSE",
+    "Name": "L Brands Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LBRT.NYSE",
+    "Name": "Liberty Oilfield Services Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LDOS.NYSE",
+    "Name": "Leidos Holdings",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LEA.NYSE",
+    "Name": "Lear Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LEG.NYSE",
+    "Name": "Leggett & Platt",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LEN.NYSE",
+    "Name": "Lennar Corp.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LEVI.NYSE",
+    "Name": "Levi Strauss & Co.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LFC.NYSE",
+    "Name": "China Life Insurance Co Ltd ADR",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LGFa.NYSE",
+    "Name": "Lions Gate Entertainment Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LH.NYSE",
+    "Name": "Laboratory Corp. of America Holding",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LHX.NYSE",
+    "Name": "L3Harris Technologies",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LII.NYSE",
+    "Name": "Lennox International Inc. Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LIN.NYSE",
+    "Name": "Linde plc CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LLY.NYSE",
+    "Name": "Eli Lilly CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LMND.NYSE",
+    "Name": "Lemonade Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LMT.NYSE",
+    "Name": "Lockheed Martin CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LNC.NYSE",
+    "Name": "Lincoln National",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LOW.NYSE",
+    "Name": "Lowe's Cos.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LPI.NYSE",
+    "Name": "Laredo Petroleum Holdings Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LPX.NYSE",
+    "Name": "Louisiana-Pacific Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LQD.NYSE",
+    "Name": "iShares iBoxx $ Invmt Grade Corp Bd ETF CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LRN.NYSE",
+    "Name": "Stride Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LSI.NYSE",
+    "Name": "Life Storage Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LTC.NYSE",
+    "Name": "LTC Properties Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LTHM.NYSE",
+    "Name": "Livent Corporation",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LU.NYSE",
+    "Name": "Lufax Holding Ltd",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LUMN.NYSE",
+    "Name": "Lumen Technologies",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LUV.NYSE",
+    "Name": "Southwest Airlines",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LVS.NYSE",
+    "Name": "Las Vegas Sands",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LW.NYSE",
+    "Name": "Lamb Weston Holdings Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LXP.NYSE",
+    "Name": "Lexington Realty Trust",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LXU.NYSE",
+    "Name": "LSB Industries Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LYB.NYSE",
+    "Name": "LyondellBasell",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LYG.NYSE",
+    "Name": "Lloyds Banking Group PLC",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "LYV.NYSE",
+    "Name": "Live Nation Entertainment",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "M.NYSE",
+    "Name": "Macy's",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MA.NYSE",
+    "Name": "Mastercard CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MAA.NYSE",
+    "Name": "Mid-America Apartments",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MAC.NYSE",
+    "Name": "Macerich Co",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MAIN.NYSE",
+    "Name": "Main Street Capital Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MAN.NYSE",
+    "Name": "ManpowerGroup Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MANU.NYSE",
+    "Name": "Manchester United Plc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MAS.NYSE",
+    "Name": "Masco Corp.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MAXR.NYSE",
+    "Name": "Maxar Technologies Ltd",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MBT.NYSE",
+    "Name": "Mobile TeleSystems OJSC",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MCD.NYSE",
+    "Name": "McDonald's Corp CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MCK.NYSE",
+    "Name": "McKesson Corp.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MCO.NYSE",
+    "Name": "Moody's Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MD.NYSE",
+    "Name": "MEDNAX Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MDC.NYSE",
+    "Name": "MDC Holdings Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MDLA.NYSE",
+    "Name": "Medallia Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MDP.NYSE",
+    "Name": "Meredith Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MDT.NYSE",
+    "Name": "Medtronic plc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MDU.NYSE",
+    "Name": "MDU Resources Group Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MED.NYSE",
+    "Name": "Medifast Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MET.NYSE",
+    "Name": "MetLife Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MFA.NYSE",
+    "Name": "MFA Financial Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MGM.NYSE",
+    "Name": "MGM Resorts International",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MGP.NYSE",
+    "Name": "MGM Growth Properties LLC Class A common shares representing limited liability company interests",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MGY.NYSE",
+    "Name": "Magnolia Oil & Gas Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MHK.NYSE",
+    "Name": "Mohawk Industries",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MIMO.NYSE",
+    "Name": "Airspan Networks Holdings Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MITT.NYSE",
+    "Name": "AG Mortgage Investment Trust Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MJ.NYSE",
+    "Name": "ETFMG Alternative Harvest ETF CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MKC.NYSE",
+    "Name": "McCormick & Co.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MKL.NYSE",
+    "Name": "Markel Corporation Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MLM.NYSE",
+    "Name": "Martin Marietta Materials",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MMC.NYSE",
+    "Name": "Marsh & McLennan",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MMI.NYSE",
+    "Name": "Marcus & Millichap Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MMM.NYSE",
+    "Name": "3M Company CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MNRL.NYSE",
+    "Name": "Brigham Minerals Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MO.NYSE",
+    "Name": "Altria Group Inc CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MOH.NYSE",
+    "Name": "Molina Healthcare Inc Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MOO.NYSE",
+    "Name": "VanEck Vectors Agribusiness ETF CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MOS.NYSE",
+    "Name": "The Mosaic Company",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MPC.NYSE",
+    "Name": "Marathon Petroleum",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MPLX.NYSE",
+    "Name": "MPLX LP Common Units Representing Limited Partner Interests",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MPW.NYSE",
+    "Name": "Medical Properties Trust Inc. common stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MRK.NYSE",
+    "Name": "Merck and Co CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MRO.NYSE",
+    "Name": "Marathon Oil Corp.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MS.NYSE",
+    "Name": "Morgan Stanley CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MSCI.NYSE",
+    "Name": "MSCI Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MSGS.NYSE",
+    "Name": "Madison Square Garden Sport Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MSI.NYSE",
+    "Name": "Motorola Solutions Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MTB.NYSE",
+    "Name": "M&T Bank Corp.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MTD.NYSE",
+    "Name": "Mettler Toledo",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MTDR.NYSE",
+    "Name": "Matador Resources Co",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MTH.NYSE",
+    "Name": "Meritage Homes Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MTN.NYSE",
+    "Name": "Vail Resorts Inc. Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MTOR.NYSE",
+    "Name": "Meritor Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MTW.NYSE",
+    "Name": "Manitowoc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MTZ.NYSE",
+    "Name": "MasTec Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MUR.NYSE",
+    "Name": "Murphy Oil",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MUSA.NYSE",
+    "Name": "Murphy USA Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MUX.NYSE",
+    "Name": "McEwen Mining Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MWA.NYSE",
+    "Name": "Mueller Water Products Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MX.NYSE",
+    "Name": "Magnachip Semiconductor Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "MXL.NYSE",
+    "Name": "MaxLinear Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NAT.NYSE",
+    "Name": "Nordic American Tanker Shipping",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NAV.NYSE",
+    "Name": "Navistar International Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NBR.NYSE",
+    "Name": "Nabors Indust",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NCLH.NYSE",
+    "Name": "Norwegian Cruise Line Holdings",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NCR.NYSE",
+    "Name": "NCR",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NEE.NYSE",
+    "Name": "NextEra Energy, Inc. CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NEM.NYSE",
+    "Name": "Newmont Corporation",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NEP.NYSE",
+    "Name": "NextEra Energy Partners LP",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NET.NYSE",
+    "Name": "Cloudflare Inc. Class A Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NEWR.NYSE",
+    "Name": "New Relic Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NI.NYSE",
+    "Name": "NiSource Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NIO.NYSE",
+    "Name": "NIO Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NKE.NYSE",
+    "Name": "Nike CL B CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NLSN.NYSE",
+    "Name": "Nielsen Holdings",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NLY.NYSE",
+    "Name": "Annaly Capital Management Inc Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NNN.NYSE",
+    "Name": "National Retail Properties Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NOC.NYSE",
+    "Name": "Northrop Grumman",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NOK.NYSE",
+    "Name": "Nokia (US)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NOMD.NYSE",
+    "Name": "Nomad Foods",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NOV.NYSE",
+    "Name": "NOV Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NOW.NYSE",
+    "Name": "ServiceNow",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NPTN.NYSE",
+    "Name": "NeoPhotonics Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NRG.NYSE",
+    "Name": "NRG Energy",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NRZ.NYSE",
+    "Name": "New Residential Investment Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NS.NYSE",
+    "Name": "NuStar Energy LP",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NSA.NYSE",
+    "Name": "National Storage Affiliates Trust",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NSC.NYSE",
+    "Name": "Norfolk Southern Corp.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NSP.NYSE",
+    "Name": "Insperity Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NUE.NYSE",
+    "Name": "Nucor Corp.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NUS.NYSE",
+    "Name": "Nu Skin Enterprises Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NVGS.NYSE",
+    "Name": "Navigator Holdings Ltd",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NVR.NYSE",
+    "Name": "NVR, Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NVRO.NYSE",
+    "Name": "Nevro Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NVS.NYSE",
+    "Name": "Novartis AG - ADR",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NVTA.NYSE",
+    "Name": "Invitae Corporation",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "NYT.NYSE",
+    "Name": "New York Times",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "O.NYSE",
+    "Name": "Realty Income Corporation",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "OFC.NYSE",
+    "Name": "Corporate Office Properties Tr",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "OHI.NYSE",
+    "Name": "Omega Healthcare Investors Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "OI.NYSE",
+    "Name": "O-I Glass Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "OKE.NYSE",
+    "Name": "ONEOK",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "OLN.NYSE",
+    "Name": "Olin Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "OMC.NYSE",
+    "Name": "Omnicom Group",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "OMI.NYSE",
+    "Name": "Owens & Minor Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ONTO.NYSE",
+    "Name": "ONTO Innovation Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ORA.NYSE",
+    "Name": "Ormat Technologies Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ORCL.NYSE",
+    "Name": "Oracle CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ORI.NYSE",
+    "Name": "Old Republic International Cor",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "OSH.NYSE",
+    "Name": "Oak Street Health Inc. Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "OSK.NYSE",
+    "Name": "Oshkosh Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "OTIS.NYSE",
+    "Name": "Otis Worldwide",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "OUT.NYSE",
+    "Name": "Outfront Media Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "OXY.NYSE",
+    "Name": "Occidental Petroleum",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PAG.NYSE",
+    "Name": "Penske Automotive Group Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PAGS.NYSE",
+    "Name": "Pagseguro Digital LTD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PANW.NYSE",
+    "Name": "Palo Alto Networks Inc. Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PAYC.NYSE",
+    "Name": "Paycom",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PBA.NYSE",
+    "Name": "Pembina Pipeline Corp (US)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PBF.NYSE",
+    "Name": "PBF Energy Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PBI.NYSE",
+    "Name": "Pitney Bowes",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PBR.NYSE",
+    "Name": "Petroleo Brasileiro ADR Reptg 2",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PBT.NYSE",
+    "Name": "Permian Basin Royalty Trust",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PCG.NYSE",
+    "Name": "Pacific Gas & Electric Co. Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PD.NYSE",
+    "Name": "PagerDuty Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PDM.NYSE",
+    "Name": "Piedmont Office Realty Trust I",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PEAK.NYSE",
+    "Name": "Healthpeak Properties",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PEB.NYSE",
+    "Name": "Pebblebrook Hotel Trust",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PEG.NYSE",
+    "Name": "Public Service Enterprise Group (PSEG)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PEI.NYSE",
+    "Name": "Pennsylvania Real Estate Inves",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PEN.NYSE",
+    "Name": "Penumbra Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PFE.NYSE",
+    "Name": "Pfizer CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PFGC.NYSE",
+    "Name": "Performance Food Group Co",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PG.NYSE",
+    "Name": "Procter and Gamble CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PGR.NYSE",
+    "Name": "Progressive Corp.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PGRE.NYSE",
+    "Name": "Paramount Group Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PH.NYSE",
+    "Name": "Parker-Hannifin",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PHK.NYSE",
+    "Name": "PIMCO High Income Fund",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PHM.NYSE",
+    "Name": "PulteGroup",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PII.NYSE",
+    "Name": "Polaris",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PINE.NYSE",
+    "Name": "Alpine Income Property Trust Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PINS.NYSE",
+    "Name": "Pinterest Inc CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PK.NYSE",
+    "Name": "Park Hotels and Resorts Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PKG.NYSE",
+    "Name": "Packaging Corporation of America",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PKI.NYSE",
+    "Name": "PerkinElmer",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PLAN.NYSE",
+    "Name": "Anaplan Inc. Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PLD.NYSE",
+    "Name": "Prologis",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PLNT.NYSE",
+    "Name": "Planet Fitness Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PLTR.NYSE",
+    "Name": "Palantir Technologies Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PM.NYSE",
+    "Name": "Philip Morris CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PNC.NYSE",
+    "Name": "PNC Financial Services",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PNR.NYSE",
+    "Name": "Pentair plc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PNW.NYSE",
+    "Name": "Pinnacle West Capital",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "POLY.NYSE",
+    "Name": "Plantronics Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PPG.NYSE",
+    "Name": "PPG Industries",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PPL.NYSE",
+    "Name": "PPL Corp.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PRG.NYSE",
+    "Name": "PROG Holdings Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PRGO.NYSE",
+    "Name": "Perrigo",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PRTY.NYSE",
+    "Name": "Party City Holdco Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PRU.NYSE",
+    "Name": "Prudential Financial",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PSA.NYSE",
+    "Name": "Public Storage",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PSTG.NYSE",
+    "Name": "Pure Storage Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PSX.NYSE",
+    "Name": "Phillips 66",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PTY.NYSE",
+    "Name": "PIMCO Corporate & Income Opportunity Fund",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PUMP.NYSE",
+    "Name": "ProPetro Holding Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PVH.NYSE",
+    "Name": "PVH Corp.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PWR.NYSE",
+    "Name": "Quanta Services Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "PXD.NYSE",
+    "Name": "Pioneer Natural Resources",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "QD.NYSE",
+    "Name": "Qudian Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "QS.NYSE",
+    "Name": "QuantumScape Corporation Class A Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "QTS.NYSE",
+    "Name": "QTS Realty Trust Inc Class A",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "QTWO.NYSE",
+    "Name": "Q2 Holdings Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "R.NYSE",
+    "Name": "Ryder System Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RACE.NYSE",
+    "Name": "Ferrari NV (US)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RAD.NYSE",
+    "Name": "Rite Aid Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RBLX.NYSE",
+    "Name": "Roblox Corporation",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RCL.NYSE",
+    "Name": "Royal Caribbean Group",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RDN.NYSE",
+    "Name": "Radian Group Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RE.NYSE",
+    "Name": "Everest Re Group Ltd.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RENN.NYSE",
+    "Name": "Renren Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RERE.NYSE",
+    "Name": "Aihuishou International",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "REXR.NYSE",
+    "Name": "Rexford Industrial Realty Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RF.NYSE",
+    "Name": "Regions Financial Corp.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RFP.NYSE",
+    "Name": "Resolute Forest Products",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RGA.NYSE",
+    "Name": "Reinsurance Group of America I",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RGS.NYSE",
+    "Name": "Regis Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RH.NYSE",
+    "Name": "RH Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RHI.NYSE",
+    "Name": "Robert Half International",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RIG.NYSE",
+    "Name": "Transocean (US)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RJF.NYSE",
+    "Name": "Raymond James Financial, Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RKT.NYSE",
+    "Name": "Rocket Companies Inc. Class A Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RL.NYSE",
+    "Name": "Ralph Lauren Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RLGY.NYSE",
+    "Name": "Realogy Holdings Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RLJ.NYSE",
+    "Name": "RLJ Lodging Trust",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RMAX.NYSE",
+    "Name": "RE/MAX Holdings Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RMD.NYSE",
+    "Name": "ResMed",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RNG.NYSE",
+    "Name": "RingCentral Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RNR.NYSE",
+    "Name": "RenaissanceRe Holdings Ltd",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ROK.NYSE",
+    "Name": "Rockwell Automation Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ROL.NYSE",
+    "Name": "Rollins, Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ROP.NYSE",
+    "Name": "Roper Technologies",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RPAI.NYSE",
+    "Name": "Retail Properties of America I",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RPM.NYSE",
+    "Name": "RPM International Inc. Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RRC.NYSE",
+    "Name": "Range Resources",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RRD.NYSE",
+    "Name": "R. R. Donnelley & Sons",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RS.NYSE",
+    "Name": "Reliance Steel & Aluminum Co",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RSG.NYSE",
+    "Name": "Republic Services Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RTX.NYSE",
+    "Name": "Raytheon Technologies Corporation Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RVLV.NYSE",
+    "Name": "Revolve Group Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RWT.NYSE",
+    "Name": "Redwood Trust Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RY.NYSE",
+    "Name": "Royal Bank of Canada (US)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RYAM.NYSE",
+    "Name": "Rayonier Advanced Materials Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "RYN.NYSE",
+    "Name": "Rayonier Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SA.NYSE",
+    "Name": "Seabridge Gold Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SAFE.NYSE",
+    "Name": "Safehold Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SAH.NYSE",
+    "Name": "Sonic Automotive Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SAIL.NYSE",
+    "Name": "SailPoint Technologies Holdings, Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SAM.NYSE",
+    "Name": "Boston Beer Company Inc. (The) Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SAN.NYSE",
+    "Name": "Banco Santander SA - ADR",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SAR.NYSE",
+    "Name": "Saratoga Investment Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SAVE.NYSE",
+    "Name": "Spirit Airlines Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SB.NYSE",
+    "Name": "Safe Bulkers Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SBH.NYSE",
+    "Name": "Sally Beauty Holdings Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SBOW.NYSE",
+    "Name": "SilverBow Resources Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SBS.NYSE",
+    "Name": "Cia de Saneamento Basico do Estado de Sao Paulo",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SBSW.NYSE",
+    "Name": "Sibanye Stillwater Ltd - ADR",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SCCO.NYSE",
+    "Name": "Southern Copper Corporation Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SCHW.NYSE",
+    "Name": "Charles Schwab Corporation",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SCI.NYSE",
+    "Name": "Service Corp International/US",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SCL.NYSE",
+    "Name": "Stepan Co",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SCM.NYSE",
+    "Name": "Stellus Capital Investment Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SCS.NYSE",
+    "Name": "Steelcase Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SE.NYSE",
+    "Name": "Sea Limited American Depositary Shares each representing one Class A Ordinary Share",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SEE.NYSE",
+    "Name": "Sealed Air",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SGFY.NYSE",
+    "Name": "Signify Health Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SGU.NYSE",
+    "Name": "Star Gas Partners LP",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SHAK.NYSE",
+    "Name": "Shake Shack Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SHEL.NYSE",
+    "Name": "Shell PLC (US)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SHG.NYSE",
+    "Name": "Shinhan Financial Group Co Ltd",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SHLX.NYSE",
+    "Name": "Shell Midstream Partners LP",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SHO.NYSE",
+    "Name": "Sunstone Hotel Investors Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SHOP.NYSE",
+    "Name": "Shopify Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SHW.NYSE",
+    "Name": "Sherwin-Williams",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SI.NYSE",
+    "Name": "Silvergate Capital Corporation",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SIG.NYSE",
+    "Name": "Signet Jewelers Ltd",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SIL.NYSE",
+    "Name": "Global X Silver Miners ETF CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SITC.NYSE",
+    "Name": "SITE Centers Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SIX.NYSE",
+    "Name": "Six Flags Entertainment Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SJM.NYSE",
+    "Name": "JM Smucker",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SKM.NYSE",
+    "Name": "SK Telecom Co Ltd",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SKX.NYSE",
+    "Name": "Skechers U.S.A. Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SLB.NYSE",
+    "Name": "Schlumberger CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SLCA.NYSE",
+    "Name": "US Silica Holdings Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SLG.NYSE",
+    "Name": "SL Green Realty",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SLI.NYSE",
+    "Name": "Standard Lithium Ltd",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SM.NYSE",
+    "Name": "SM Energy Co",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SMAR.NYSE",
+    "Name": "Smartsheet Inc. Class A Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SMG.NYSE",
+    "Name": "Scotts Miracle-Gro Company (The) Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SMP.NYSE",
+    "Name": "Standard Motor Products Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SMWB.NYSE",
+    "Name": "SimilarWeb LTD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SNA.NYSE",
+    "Name": "Snap-on",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SNAP.NYSE",
+    "Name": "Snap Inc. Class A Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SNOW.NYSE",
+    "Name": "Snowflake Inc. Class A Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SNX.NYSE",
+    "Name": "SYNNEX Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SO.NYSE",
+    "Name": "Southern Company",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SOGO.NYSE",
+    "Name": "Sogou Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SOL.NYSE",
+    "Name": "ReneSola Ltd",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SON.NYSE",
+    "Name": "Sonoco Products Co",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SPB.NYSE",
+    "Name": "Spectrum Brands Holdings Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SPCE.NYSE",
+    "Name": "Virgin Galactic Holdings Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SPG.NYSE",
+    "Name": "Simon Property Group Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SPGI.NYSE",
+    "Name": "S&P Global Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SPOT.NYSE",
+    "Name": "Spotify Technology SA CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SPR.NYSE",
+    "Name": "Spirit Aerosystems Holdings In",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SQ.NYSE",
+    "Name": "Square Inc. Class A Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SRE.NYSE",
+    "Name": "Sempra Energy",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SRG.NYSE",
+    "Name": "Seritage Growth Properties",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SSTK.NYSE",
+    "Name": "Shutterstock Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SSU.NYSE",
+    "Name": "Signa Sports United NV",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "STAG.NYSE",
+    "Name": "STAG Industrial Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "STE.NYSE",
+    "Name": "STERIS plc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "STEM.NYSE",
+    "Name": "Stem Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "STK.NYSE",
+    "Name": "Columbia Seligman Premium Technology Growth Fund Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "STLA.NYSE",
+    "Name": "Stellantis NV (US)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "STN.NYSE",
+    "Name": "Stantec Inc (US)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "STNG.NYSE",
+    "Name": "Scorpio Tankers Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "STOR.NYSE",
+    "Name": "STORE Capital Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "STT.NYSE",
+    "Name": "State Street Corp.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "STVN.NYSE",
+    "Name": "Stevanato Group SPA",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "STWD.NYSE",
+    "Name": "Starwood Property Trust Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "STXS.NYSE",
+    "Name": "Stereotaxis Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "STZ.NYSE",
+    "Name": "Constellation Brands",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SUI.NYSE",
+    "Name": "Sun Communities Inc. Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SWCH.NYSE",
+    "Name": "Switch Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SWK.NYSE",
+    "Name": "Stanley Black & Decker",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SWN.NYSE",
+    "Name": "Southwestern Energy",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SXI.NYSE",
+    "Name": "Standex International Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SXT.NYSE",
+    "Name": "Sensient Technologies Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SYF.NYSE",
+    "Name": "Synchrony Financial",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SYK.NYSE",
+    "Name": "Stryker Corp.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "SYY.NYSE",
+    "Name": "Sysco Corp.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "T.NYSE",
+    "Name": "ATandT CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TAK.NYSE",
+    "Name": "Takeda Pharmaceutical Company Limited",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TAL.NYSE",
+    "Name": "TAL Education Group",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TALO.NYSE",
+    "Name": "Talos Energy Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TAP.NYSE",
+    "Name": "Molson Coors Beverage Company",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TDC.NYSE",
+    "Name": "Teradata",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TDG.NYSE",
+    "Name": "TransDigm Group",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TDOC.NYSE",
+    "Name": "Teladoc Health Inc. Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TDW.NYSE",
+    "Name": "Tidewater Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TDY.NYSE",
+    "Name": "Teledyne Technologies",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TECK.NYSE",
+    "Name": "Teck Resources Ltd (US)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TEF.NYSE",
+    "Name": "Telefonica SA - ADR",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TEL.NYSE",
+    "Name": "TE Connectivity Ltd.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TEVA.NYSE",
+    "Name": "Teva Pharmaceutical Industries Ltd",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TFC.NYSE",
+    "Name": "Truist Financial",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TFX.NYSE",
+    "Name": "Teleflex",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TGNA.NYSE",
+    "Name": "Tegna Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TGT.NYSE",
+    "Name": "Target Corp.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "THC.NYSE",
+    "Name": "Tenet Healthcare",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "THG.NYSE",
+    "Name": "Hanover Insurance Group Inc/Th",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "THO.NYSE",
+    "Name": "Thor Industries Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "THR.NYSE",
+    "Name": "Thermon Group Holdings Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "THS.NYSE",
+    "Name": "TreeHouse Foods Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TINV.NYSE",
+    "Name": "Tiga Acquisition Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TJX.NYSE",
+    "Name": "TJX Companies Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TKR.NYSE",
+    "Name": "Timken Co",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TLYS.NYSE",
+    "Name": "Tilly's Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TM.NYSE",
+    "Name": "Toyota Motor Corporation CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TME.NYSE",
+    "Name": "Tencent Music Entertainment",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TMHC.NYSE",
+    "Name": "Taylor Morrison Home Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TMO.NYSE",
+    "Name": "Thermo Fisher Scientific Inc. CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TMST.NYSE",
+    "Name": "TimkenSteel Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TMX.NYSE",
+    "Name": "Terminix Global Holdings Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TOL.NYSE",
+    "Name": "Toll Brothers Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TPC.NYSE",
+    "Name": "Tutor Perini Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TPH.NYSE",
+    "Name": "TRI Pointe Homes Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TPR.NYSE",
+    "Name": "Tapestry, Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TPX.NYSE",
+    "Name": "Tempur-Pedic International Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TREX.NYSE",
+    "Name": "Trex Company Inc. Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TRGP.NYSE",
+    "Name": "Targa Resources Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TRI.NYSE",
+    "Name": "Thomson Reuters Corp (US)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TRNO.NYSE",
+    "Name": "Terreno Realty Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TROX.NYSE",
+    "Name": "Tronox Ltd",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TRU.NYSE",
+    "Name": "TransUnion Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TRV.NYSE",
+    "Name": "The Travelers Companies Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TSN.NYSE",
+    "Name": "Tyson Foods",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TT.NYSE",
+    "Name": "Trane Technologies plc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TTC.NYSE",
+    "Name": "Toro Company (The) Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TTI.NYSE",
+    "Name": "TETRA Technologies Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TTM.NYSE",
+    "Name": "Tata Motors",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TUP.NYSE",
+    "Name": "Tupperware Brands Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TV.NYSE",
+    "Name": "Grupo Televisa",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TWI.NYSE",
+    "Name": "Titan International Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TWLO.NYSE",
+    "Name": "Twilio Inc. Class A Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TWO.NYSE",
+    "Name": "Two Harbors Investment Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TWTR.NYSE",
+    "Name": "Twitter, Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TX.NYSE",
+    "Name": "Ternium SA",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TXT.NYSE",
+    "Name": "Textron Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "TYL.NYSE",
+    "Name": "Tyler Technologies",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "U.NYSE",
+    "Name": "Unity Software Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "UA.NYSE",
+    "Name": "Under Armour (Class C)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "UAA.NYSE",
+    "Name": "Under Armour (Class A)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "UBER.NYSE",
+    "Name": "Uber Technologies Inc CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "UDR.NYSE",
+    "Name": "UDR, Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "UE.NYSE",
+    "Name": "Urban Edge Properties",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "UGI.NYSE",
+    "Name": "UGI Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "UHS.NYSE",
+    "Name": "Universal Health Services",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "UHT.NYSE",
+    "Name": "Universal Health Realty Income",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "UI.NYSE",
+    "Name": "Ubiquiti Inc. Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "UL.NYSE",
+    "Name": "Unilever (US)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "UMC.NYSE",
+    "Name": "United Microelectronics Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "UNFI.NYSE",
+    "Name": "United Natural Foods Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "UNG.NYSE",
+    "Name": "United States Natural Gas CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "UNH.NYSE",
+    "Name": "UnitedHealth Group CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "UNM.NYSE",
+    "Name": "Unum Group",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "UNP.NYSE",
+    "Name": "Union Pacific Cp CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "UPS.NYSE",
+    "Name": "United Parcel Services CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "URA.NYSE",
+    "Name": "Global X Uranium ETF CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "URI.NYSE",
+    "Name": "United Rentals, Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "USAC.NYSE",
+    "Name": "USA Compression Partners LP",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "USB.NYSE",
+    "Name": "US Bancorp CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "USFD.NYSE",
+    "Name": "US Foods Holding Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "USNA.NYSE",
+    "Name": "USANA Health Sciences Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "USO.NYSE",
+    "Name": "United States Oil CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "USX.NYSE",
+    "Name": "US Xpress Enterprises Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "UVV.NYSE",
+    "Name": "Universal Corp/VA",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "V.NYSE",
+    "Name": "Visa CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "VAC.NYSE",
+    "Name": "Marriott Vacations Worldwide C",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "VALE.NYSE",
+    "Name": "Vale SA",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "VEDL.NYSE",
+    "Name": "Vedanta Ltd - ADR",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "VEEV.NYSE",
+    "Name": "Veeva Systems Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "VER.NYSE",
+    "Name": "VEREIT Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "VET.NYSE",
+    "Name": "Vermilion Energy Inc (US)",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "VFC.NYSE",
+    "Name": "VF Corporation",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "VHC.NYSE",
+    "Name": "VirnetX Holding Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "VIPS.NYSE",
+    "Name": "Vipshop Holdings Ltd",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "VLO.NYSE",
+    "Name": "Valero Energy",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "VLRS.NYSE",
+    "Name": "Controladora Vuela Co Avcn SA CV",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "VMC.NYSE",
+    "Name": "Vulcan Materials",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "VMW.NYSE",
+    "Name": "Vmware Inc. Common stock Class A",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "VNO.NYSE",
+    "Name": "Vornado Realty Trust",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "VSCO.NYSE",
+    "Name": "Victoria's Secret & Co",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "VST.NYSE",
+    "Name": "Vistra Energy Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "VSTO.NYSE",
+    "Name": "Vista Outdoor Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "VTR.NYSE",
+    "Name": "Ventas Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "VVI.NYSE",
+    "Name": "Viad Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "VYM.NYSE",
+    "Name": "Vanguard High Dividend Yield ETF CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "VZ.NYSE",
+    "Name": "Verizon Communications Inc CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "W.NYSE",
+    "Name": "Wayfair Inc. Class A Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "WAB.NYSE",
+    "Name": "Westinghouse Air Brake Technologies Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "WAT.NYSE",
+    "Name": "Waters Corporation",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "WCC.NYSE",
+    "Name": "WESCO International Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "WEC.NYSE",
+    "Name": "WEC Energy Group",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "WELL.NYSE",
+    "Name": "Welltower Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "WEX.NYSE",
+    "Name": "WEX Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "WFC.NYSE",
+    "Name": "Wells Fargo and Co CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "WGO.NYSE",
+    "Name": "Winnebago Industries Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "WHR.NYSE",
+    "Name": "Whirlpool Corp.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "WLK.NYSE",
+    "Name": "Westlake Chemical Corporation Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "WLL.NYSE",
+    "Name": "Whiting Petroleum Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "WM.NYSE",
+    "Name": "Waste Management Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "WMB.NYSE",
+    "Name": "Williams Companies",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "WMC.NYSE",
+    "Name": "Western Asset Mortgage Capital Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "WMS.NYSE",
+    "Name": "Advanced Drainage Systems Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "WMT.NYSE",
+    "Name": "Wal-Mart Stores CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "WORK.NYSE",
+    "Name": "Slack Technologies, Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "WPC.NYSE",
+    "Name": "W. P. Carey Inc. REIT",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "WRB.NYSE",
+    "Name": "W. R. Berkley Corporation",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "WRE.NYSE",
+    "Name": "Washington Real Estate Investm",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "WRI.NYSE",
+    "Name": "Weingarten Realty Investors",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "WRK.NYSE",
+    "Name": "WestRock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "WSM.NYSE",
+    "Name": "Williams-Sonoma Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "WSO.NYSE",
+    "Name": "Watsco Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "WST.NYSE",
+    "Name": "West Pharmaceutical Services",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "WTI.NYSE",
+    "Name": "W&T Offshore Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "WTRG.NYSE",
+    "Name": "Essential Utilities Inc. Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "WU.NYSE",
+    "Name": "Western Union Co",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "WWE.NYSE",
+    "Name": "World Wrestling Entertainment",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "WY.NYSE",
+    "Name": "Weyerhaeuser",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "XEC.NYSE",
+    "Name": "Cimarex Energy Co",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "XLE.NYSE",
+    "Name": "Energy Select Sector SPDR ETF CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "XLF.NYSE",
+    "Name": "Financial Select Sector SPDR ETF CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "XLI.NYSE",
+    "Name": "Industrial Select Sector SPDR ETF CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "XLK.NYSE",
+    "Name": "Technology Select Sector SPDR Fund",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "XLP.NYSE",
+    "Name": "Consumer Staples Select Sector SPDR ETF CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "XLU.NYSE",
+    "Name": "Utilities Select Sector SPDR ETF CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "XLV.NYSE",
+    "Name": "Health Care Select Sector SPDR Fund",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "XLY.NYSE",
+    "Name": "Consumer Discretionary Select Sector SPDR Fund",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "XOM.NYSE",
+    "Name": "Exxon Mobil CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "XOP.NYSE",
+    "Name": "SPDR S&P Oil & Gas Explor & Prodtn ETF CFD",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "XPRO.NYSE",
+    "Name": "Expro Group Holdings NV",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "XRX.NYSE",
+    "Name": "Xerox",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "XYL.NYSE",
+    "Name": "Xylem Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "Y.NYSE",
+    "Name": "Alleghany Corp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "YELP.NYSE",
+    "Name": "Yelp",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "YETI.NYSE",
+    "Name": "YETI Holdings Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "YEXT.NYSE",
+    "Name": "Yext Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "YUM.NYSE",
+    "Name": "Yum! Brands Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "YUMC.NYSE",
+    "Name": "Yum China Holdings Inc. Common Stock",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ZBH.NYSE",
+    "Name": "Zimmer Biomet Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ZEN.NYSE",
+    "Name": "Zendesk Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ZTO.NYSE",
+    "Name": "ZTO Express (Cayman) Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ZTS.NYSE",
+    "Name": "Zoetis Inc.",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "ZUO.NYSE",
+    "Name": "Zuora Inc",
+    "Exchange": "NYSE"
+  },
+  {
+    "Symbol": "AAL.NAS",
+    "Name": "American Airlines Group",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AAPL.NAS",
+    "Name": "Apple Inc CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AAXJ.NAS",
+    "Name": "iShares MSCI All Country Asia ex Japan ETF",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ABCB.NAS",
+    "Name": "Ameris Bancorp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ABEO.NAS",
+    "Name": "Abeona Therapeutics Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ABMD.NAS",
+    "Name": "ABIOMED Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ABNB.NAS",
+    "Name": "Airbnb Inc. Class A Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ABUS.NAS",
+    "Name": "Arbutus Biopharma",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ACAD.NAS",
+    "Name": "ACADIA Pharmaceuticals Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ACLS.NAS",
+    "Name": "Axcelis Technologies Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ACMR.NAS",
+    "Name": "ACM Research Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ACRX.NAS",
+    "Name": "AcelRx Pharmaceuticals Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ACWI.NAS",
+    "Name": "iShares MSCI ACWI ETF",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ADAG.NAS",
+    "Name": "Adagene Inc ADR",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ADAP.NAS",
+    "Name": "Adaptimmune Therapeutics PLC",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ADBE.NAS",
+    "Name": "Adobe Systems CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ADES.NAS",
+    "Name": "Advanced Emissions Solutions Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ADGI.NAS",
+    "Name": "Adagio Therapeutics Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ADI.NAS",
+    "Name": "Analog Devices CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ADMP.NAS",
+    "Name": "Adamis Pharmaceuticals Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ADN.NAS",
+    "Name": "Advent Technologies Holdings Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ADP.NAS",
+    "Name": "Automatic Data Processing (ADP) CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ADPT.NAS",
+    "Name": "Adaptive Biotechnologies",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ADSK.NAS",
+    "Name": "Autodesk Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ADTH.NAS",
+    "Name": "AdTheorent Holding Company Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ADUS.NAS",
+    "Name": "Addus Homecare Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ADV.NAS",
+    "Name": "Advantage Solutions Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ADVM.NAS",
+    "Name": "Adverum Biotechnologies Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AEHR.NAS",
+    "Name": "Aehr Test Systems",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AEP.NAS",
+    "Name": "American Electric Power",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AFMD.NAS",
+    "Name": "Affimed N.V.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AFRM.NAS",
+    "Name": "Affirm Holdings Inc. Class A Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AFYA.NAS",
+    "Name": "Afya Ltd",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AGEN.NAS",
+    "Name": "Agenus Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AGLE.NAS",
+    "Name": "Aeglea BioTherapeutics, Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AGNC.NAS",
+    "Name": "AGNC Investment Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AGRX.NAS",
+    "Name": "Agile Therapeutics Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AHCO.NAS",
+    "Name": "Adapthealth Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AHG.NAS",
+    "Name": "Akso Health Group",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AIKI.NAS",
+    "Name": "Aikido Pharma Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AINV.NAS",
+    "Name": "Apollo Investment Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AIRG.NAS",
+    "Name": "Airgain Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AIRS.NAS",
+    "Name": "AirSculpt Technologies Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AKAM.NAS",
+    "Name": "Akamai Technologies Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AKRO.NAS",
+    "Name": "Akero Therapeutics Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AKTS.NAS",
+    "Name": "Akoustis Technologies Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AKTX.NAS",
+    "Name": "Akari Therapeutics PLC",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AKUS.NAS",
+    "Name": "Akouos Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AKYA.NAS",
+    "Name": "Akoya Biosciences, Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ALBO.NAS",
+    "Name": "Albireo Pharma, Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ALDX.NAS",
+    "Name": "Aldeyra Therapeutics Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ALEC.NAS",
+    "Name": "Alector Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ALGN.NAS",
+    "Name": "Align Technology",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ALNY.NAS",
+    "Name": "Alnylam Pharmaceuticals Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ALPN.NAS",
+    "Name": "Alpine Immune Sciences Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ALRM.NAS",
+    "Name": "Alarm.com Holdings Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ALRN.NAS",
+    "Name": "Aileron Therapeutics Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ALRS.NAS",
+    "Name": "Werner Enterprises Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ALT.NAS",
+    "Name": "Altimmune Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ALVR.NAS",
+    "Name": "Allovir Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ALXN.NAS",
+    "Name": "Alexion Pharmaceuticals",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AMAT.NAS",
+    "Name": "Applied Materials CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AMBA.NAS",
+    "Name": "Ambarella Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AMD.NAS",
+    "Name": "Advanced Micro Devices Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AMED.NAS",
+    "Name": "Amedisys Inc Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AMGN.NAS",
+    "Name": "Amgen CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AMRS.NAS",
+    "Name": "Amyris Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AMTX.NAS",
+    "Name": "Aemetis Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AMZN.NAS",
+    "Name": "Amazon.com CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ANDE.NAS",
+    "Name": "Andersons Inc/The",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ANGI.NAS",
+    "Name": "ANGI Homeservices Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ANSS.NAS",
+    "Name": "ANSYS, Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ANTE.NAS",
+    "Name": "Airnet Technology Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "APA.NAS",
+    "Name": "Apache Corporation",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "APHA.NAS",
+    "Name": "Aphria Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "APPF.NAS",
+    "Name": "AppFolio Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "APPN.NAS",
+    "Name": "Appian Corporation Class A Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ARAY.NAS",
+    "Name": "Accuray Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ARCC.NAS",
+    "Name": "Ares Capital Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ARCT.NAS",
+    "Name": "Arcturus Therapeutics Holdings Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ARWR.NAS",
+    "Name": "Arrowhead Research Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ASTE.NAS",
+    "Name": "Astec Industries Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ATEC.NAS",
+    "Name": "Alphatec Holdings Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ATHX.NAS",
+    "Name": "Athersys Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ATNX.NAS",
+    "Name": "Athenex Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ATRA.NAS",
+    "Name": "Atara Biotherapeutics Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ATRS.NAS",
+    "Name": "Antares Pharma Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ATSG.NAS",
+    "Name": "Air Transport Services Group Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ATVI.NAS",
+    "Name": "Activision Blizzard CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AVAV.NAS",
+    "Name": "Aerovironment Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AVGO.NAS",
+    "Name": "Broadcom Ltd CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AVID.NAS",
+    "Name": "Avid Technology Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AVT.NAS",
+    "Name": "Avnet Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AVXL.NAS",
+    "Name": "Anavex Life Sciences Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AXGN.NAS",
+    "Name": "AxoGen Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AXON.NAS",
+    "Name": "Axon Enterprise Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AXSM.NAS",
+    "Name": "Axsome Therapeutics Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AY.NAS",
+    "Name": "Atlantica Yield PLC",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AYRO.NAS",
+    "Name": "AYRO Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AYTU.NAS",
+    "Name": "Aytu BioScience Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AZN.NAS",
+    "Name": "AstraZeneca (US)",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "AZPN.NAS",
+    "Name": "Aspen Technology Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "BBBY.NAS",
+    "Name": "Bed Bath & Beyond",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "BBIG.NAS",
+    "Name": "Vinco Ventures Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "BBIO.NAS",
+    "Name": "BridgeBio Pharma",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "BCRX.NAS",
+    "Name": "BioCryst Pharmaceuticals Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "BGCP.NAS",
+    "Name": "BGC Partners Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "BGRY.NAS",
+    "Name": "Berkshire Grey Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "BHF.NAS",
+    "Name": "Brighthouse Financial Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "BIDU.NAS",
+    "Name": "Baidu Inc ADR Class A",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "BIIB.NAS",
+    "Name": "Biogen Inc CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "BILI.NAS",
+    "Name": "Bilibili Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "BIRD.NAS",
+    "Name": "Allbirds Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "BKNG.NAS",
+    "Name": "Booking Holdings Inc CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "BLDR.NAS",
+    "Name": "Builders FirstSource Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "BLFS.NAS",
+    "Name": "Biolife Solutions Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "BLMN.NAS",
+    "Name": "Bloomin' Brands Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "BLNK.NAS",
+    "Name": "Blink Charging Co.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "BLUE.NAS",
+    "Name": "Bluebird Bio Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "BMRN.NAS",
+    "Name": "BioMarin Pharmaceutical Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "BNGO.NAS",
+    "Name": "Bionano Genomics Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "BNTX.NAS",
+    "Name": "BioNTech SE",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "BPMC.NAS",
+    "Name": "Blueprint Medicines Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "BPY.NAS",
+    "Name": "Brookfield Property Partners LP (US)",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "BRKR.NAS",
+    "Name": "Bruker Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "BRKS.NAS",
+    "Name": "Brooks Automation Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "BSRR.NAS",
+    "Name": "Sierra Bancorp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "BSY.NAS",
+    "Name": "Bentley Systems Incorporated Class B Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "BYND.NAS",
+    "Name": "Beyond Meat Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "BZFD.NAS",
+    "Name": "BuzzFeed Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "BZUN.NAS",
+    "Name": "Baozun Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CACC.NAS",
+    "Name": "Credit Acceptance Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CAKE.NAS",
+    "Name": "Cheesecake Factory Inc/The",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CAMP.NAS",
+    "Name": "CalAmp Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CAN.NAS",
+    "Name": "Canaan Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CAR.NAS",
+    "Name": "Avis Budget Group Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CARA.NAS",
+    "Name": "Cara Therapeutics",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CASA.NAS",
+    "Name": "Casa Systems, Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CASS.NAS",
+    "Name": "Cass Information Systems Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CASS.NAS",
+    "Name": "Cass Information Systems Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CASY.NAS",
+    "Name": "Casey's General Stores Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CATY.NAS",
+    "Name": "Cathay General Bancorp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CBAN.NAS",
+    "Name": "Colony Bankcorp Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CBAY.NAS",
+    "Name": "CymaBay Therapeutics Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CBRL.NAS",
+    "Name": "Cracker Barrel Old Country Sto",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CDEV.NAS",
+    "Name": "Centennial Resource Development Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CDLX.NAS",
+    "Name": "Cardlytics Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CDNS.NAS",
+    "Name": "Cadence Design Systems",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CDW.NAS",
+    "Name": "CDW",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CDXS.NAS",
+    "Name": "Codexis, Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CECE.NAS",
+    "Name": "Ceco Environmental Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CELC.NAS",
+    "Name": "Celcuity Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CELH.NAS",
+    "Name": "Celsius Holdings Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CELU.NAS",
+    "Name": "Celularity Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CENN.NAS",
+    "Name": "Cenntro Electric Group Ltd",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CERN.NAS",
+    "Name": "Cerner",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CERS.NAS",
+    "Name": "Cerus Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CEVA.NAS",
+    "Name": "CEVA Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CFRX.NAS",
+    "Name": "ContraFect Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CG.NAS",
+    "Name": "The Carlyle Group Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CGNX.NAS",
+    "Name": "Cognex Corporation Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CHDN.NAS",
+    "Name": "Churchill Downs Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CHEF.NAS",
+    "Name": "Chefs' Warehouse Inc/The",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CHI.NAS",
+    "Name": "Calamos Convertible Opportunities and Income Fund",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CHKP.NAS",
+    "Name": "Check Point Software Technologies",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CHMA.NAS",
+    "Name": "Chiasma Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CHRS.NAS",
+    "Name": "Coherus Biosciences Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CHRW.NAS",
+    "Name": "C. H. Robinson Worldwide",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CHTR.NAS",
+    "Name": "Charter Communications Inc CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CIBR.NAS",
+    "Name": "First Trust Nasdaq Cybersecurity ETF",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CINF.NAS",
+    "Name": "Cincinnati Financial",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CLBT.NAS",
+    "Name": "Cellebrite DI Ltd",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CLDX.NAS",
+    "Name": "Celldex Therapeutics Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CLMT.NAS",
+    "Name": "Calumet Specialty Products Par",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CLNE.NAS",
+    "Name": "Clean Energy Fuels Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CLRB.NAS",
+    "Name": "Cellectar Biosciences Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CLSK.NAS",
+    "Name": "CleanSpark Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CLSN.NAS",
+    "Name": "Celsion Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CLVS.NAS",
+    "Name": "Clovis Oncology Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CMCSA.NAS",
+    "Name": "Comcast Corp A CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CME.NAS",
+    "Name": "CME Group CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CNCE.NAS",
+    "Name": "Concert Pharmaceuticals Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CNDT.NAS",
+    "Name": "Conduent Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CNST.NAS",
+    "Name": "Constellation Pharmaceuticals Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CODX.NAS",
+    "Name": "Co-Diagnostics Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "COIN.NAS",
+    "Name": "Coinbase Global Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "COMM.NAS",
+    "Name": "CommScope Holding Co Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CONE.NAS",
+    "Name": "CyrusOne Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CONN.NAS",
+    "Name": "Conn's Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CORE.NAS",
+    "Name": "Core-Mark Holding Co Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "COST.NAS",
+    "Name": "Costco Wholesale CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "COUP.NAS",
+    "Name": "Coupa Software Incorporated Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CPRT.NAS",
+    "Name": "Copart Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CPRX.NAS",
+    "Name": "Catalyst Pharmaceutical Partners Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CRBP.NAS",
+    "Name": "Corbus Pharmaceuticals Holdings Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CREE.NAS",
+    "Name": "Cree Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CRIS.NAS",
+    "Name": "Curis Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CRMD.NAS",
+    "Name": "CorMedix Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CRNT.NAS",
+    "Name": "Ceragon Networks Ltd",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CRON.NAS",
+    "Name": "Cronos Group Inc CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CROX.NAS",
+    "Name": "Crocs",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CRSP.NAS",
+    "Name": "CRISPR Therapeutics AG",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CRSR.NAS",
+    "Name": "Corsair Gaming Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CRUS.NAS",
+    "Name": "Cirrus Logic Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CRWD.NAS",
+    "Name": "CrowdStrike Holdings Inc. Class A Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CSCO.NAS",
+    "Name": "Cisco Systems CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CSGP.NAS",
+    "Name": "CoStar Group Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CSIQ.NAS",
+    "Name": "Canadian Solar Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CSOD.NAS",
+    "Name": "Cornerstone OnDemand Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CSTL.NAS",
+    "Name": "Castle Biosciences Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CSX.NAS",
+    "Name": "CSX Corp CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CTAS.NAS",
+    "Name": "Cintas Corporation",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CTKB.NAS",
+    "Name": "Cytek Biosciences Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CTRM.NAS",
+    "Name": "Castor Maritime Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CTSH.NAS",
+    "Name": "Cognizant Technology Solutions CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CTXS.NAS",
+    "Name": "Citrix Systems",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CVAC.NAS",
+    "Name": "CureVac N.V.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CVCO.NAS",
+    "Name": "Cavco Industries Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CWCO.NAS",
+    "Name": "Consolidated Water Co Ltd",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CWST.NAS",
+    "Name": "Casella Waste Systems Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CYBR.NAS",
+    "Name": "Cyberark Software Ltd",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CYTK.NAS",
+    "Name": "Cytokinetics Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "CZR.NAS",
+    "Name": "Caesars Entertainment Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "DAVE.NAS",
+    "Name": "Dave Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "DAWN.NAS",
+    "Name": "Day One Biopharmaceuticals Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "DBX.NAS",
+    "Name": "Dropbox Inc. Class A Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "DDOG.NAS",
+    "Name": "Datadog Inc. Class A Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "DENN.NAS",
+    "Name": "Denny's Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "DISCA.NAS",
+    "Name": "Discovery Inc. Series A Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "DISCK.NAS",
+    "Name": "Discovery Inc. Series C Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "DISH.NAS",
+    "Name": "Dish Network Corp CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "DKNG.NAS",
+    "Name": "DraftKings Inc. Class A Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "DLTR.NAS",
+    "Name": "Dollar Tree",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "DOCU.NAS",
+    "Name": "DocuSign Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "DOMO.NAS",
+    "Name": "Domo Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "DOX.NAS",
+    "Name": "Amdocs Ltd",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "DOYU.NAS",
+    "Name": "DouYu International Holdings Ltd - ADR",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "DTIL.NAS",
+    "Name": "Precision Biosciences Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "DVAX.NAS",
+    "Name": "Dynavax Technologies Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "DVY.NAS",
+    "Name": "iShares Select Dividend ETF",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "DXCM.NAS",
+    "Name": "DexCom",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "EA.NAS",
+    "Name": "Electronic Arts CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "EBAY.NAS",
+    "Name": "Ebay CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "EBET.NAS",
+    "Name": "eSports Technologies, Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "EDIT.NAS",
+    "Name": "Editas Medicine Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "EEFT.NAS",
+    "Name": "Euronet Worldwide Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "EGAN.NAS",
+    "Name": "eGain Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "EGLE.NAS",
+    "Name": "Eagle Bulk Shipping Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "EH.NAS",
+    "Name": "Ehang Holdings Ltd",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "EHTH.NAS",
+    "Name": "eHealth Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "EKSO.NAS",
+    "Name": "Ekso Bionics Holdings Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "EMB.NAS",
+    "Name": "iShares JP Morgan USD Emerging Markets Bond ETF",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ENPH.NAS",
+    "Name": "Enphase Energy",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ENTG.NAS",
+    "Name": "Entegris Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "EOLS.NAS",
+    "Name": "Evolus Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "EPZM.NAS",
+    "Name": "Epizyme Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "EQIX.NAS",
+    "Name": "Equinix CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ERIC.NAS",
+    "Name": "Telefonaktiebolaget LM Ericsson",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ERIE.NAS",
+    "Name": "Erie Indemnity Company Class A Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ETSY.NAS",
+    "Name": "Etsy",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "EVBG.NAS",
+    "Name": "Everbridge, Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "EVER.NAS",
+    "Name": "EverQuote Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "EVO.NAS",
+    "Name": "Evotec SE",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "EXAI.NAS",
+    "Name": "Ex Scientia Limited",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "EXAS.NAS",
+    "Name": "Exact Sciences Corporation Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "EXC.NAS",
+    "Name": "Exelon Corp.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "EXEL.NAS",
+    "Name": "Exelixis Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "EXFY.NAS",
+    "Name": "Expensify Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "EXLS.NAS",
+    "Name": "ExlService Holdings Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "EXPD.NAS",
+    "Name": "Expeditors",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "EXPE.NAS",
+    "Name": "Expedia Group",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "EXPI.NAS",
+    "Name": "eXp World Holdings Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "EXPO.NAS",
+    "Name": "Exponent Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "FANG.NAS",
+    "Name": "Diamondback Energy",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "FAST.NAS",
+    "Name": "Fastenal Co",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "FATE.NAS",
+    "Name": "Fate Therapeutics Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "FB.NAS",
+    "Name": "Facebook CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "FCEL.NAS",
+    "Name": "FuelCell Energy Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "FEYE.NAS",
+    "Name": "Fireeye Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "FFIV.NAS",
+    "Name": "F5 Networks",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "FISV.NAS",
+    "Name": "Fiserv Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "FITB.NAS",
+    "Name": "Fifth Third Bancorp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "FIVE.NAS",
+    "Name": "Five Below Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "FIVN.NAS",
+    "Name": "Five9 Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "FIZZ.NAS",
+    "Name": "National Beverage Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "FLEX.NAS",
+    "Name": "Flex Ltd",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "FLWS.NAS",
+    "Name": "1-800-Flowers.com Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "FOLD.NAS",
+    "Name": "Amicus Therapeutics Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "FOSL.NAS",
+    "Name": "Fossil",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "FOX.NAS",
+    "Name": "Twenty-First Century Fox (USD) B CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "FOXA.NAS",
+    "Name": "Twenty-First Century Fox (USD) A CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "FROG.NAS",
+    "Name": "JFrog Ltd",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "FRPT.NAS",
+    "Name": "Freshpet Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "FRSX.NAS",
+    "Name": "Foresight Autonomous Holdings Ltd",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "FSLR.NAS",
+    "Name": "First Solar Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "FTNT.NAS",
+    "Name": "Fortinet",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "FWONA.NAS",
+    "Name": "Liberty Media Formula One Series A",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "FWONK.NAS",
+    "Name": "Liberty Media Corporation Series C Liberty Formula One Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "GABC.NAS",
+    "Name": "German American Bancorp Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "GAME.NAS",
+    "Name": "Engine Gaming and Media Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "GASS.NAS",
+    "Name": "StealthGas Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "GDRX.NAS",
+    "Name": "GoodRx Holdings Inc. Class A Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "GERN.NAS",
+    "Name": "Geron Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "GEVO.NAS",
+    "Name": "Gevo Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "GIII.NAS",
+    "Name": "G-III Apparel Group Ltd",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "GILD.NAS",
+    "Name": "Gilead Sciences CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "GLAD.NAS",
+    "Name": "Gladstone Capital Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "GLG.NAS",
+    "Name": "TD Holdings Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "GLNG.NAS",
+    "Name": "Golar LNG Ltd",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "GLPI.NAS",
+    "Name": "Gaming and Leisure Properties Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "GMBL.NAS",
+    "Name": "Esports Entertainment Group Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "GMTX.NAS",
+    "Name": "Gemini Therapeutics Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "GNPX.NAS",
+    "Name": "Genprex Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "GNTX.NAS",
+    "Name": "Gentex Corp/MI",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "GNUS.NAS",
+    "Name": "Genius Brands International Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "GO.NAS",
+    "Name": "Grocery Outlet Holding Corp.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "GOGO.NAS",
+    "Name": "Gogo Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "GOOD.NAS",
+    "Name": "Gladstone Commercial Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "GOOG.NAS",
+    "Name": "Alphabet Inc C CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "GOSS.NAS",
+    "Name": "Gossamer Bio Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "GPC.NAS",
+    "Name": "Genuine Parts",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "GPRE.NAS",
+    "Name": "Green Plains Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "GPRO.NAS",
+    "Name": "GoPro Inc (A shares)",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "GRAB.NAS",
+    "Name": "Grab Holdings Limited",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "GRIN.NAS",
+    "Name": "Grindrod Shipping Holdings Ltd",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "GRMN.NAS",
+    "Name": "Garmin Ltd.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "GRPN.NAS",
+    "Name": "Groupon",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "GRWG.NAS",
+    "Name": "GrowGeneration Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "GSIT.NAS",
+    "Name": "GSI Technology Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "GSKY.NAS",
+    "Name": "GreenSky Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "GT.NAS",
+    "Name": "Goodyear",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "HA.NAS",
+    "Name": "Hawaiian Holdings Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "HAIN.NAS",
+    "Name": "Hain Celestial Group Inc/The",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "HALO.NAS",
+    "Name": "Halozyme Therapeutics Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "HAS.NAS",
+    "Name": "Hasbro Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "HBAN.NAS",
+    "Name": "Huntington Bancshares",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "HEAR.NAS",
+    "Name": "Turtle Beach Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "HLIT.NAS",
+    "Name": "Harmonic Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "HMHC.NAS",
+    "Name": "Houghton Mifflin Harcourt Co",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "HOLX.NAS",
+    "Name": "Hologic",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "HQY.NAS",
+    "Name": "HealthEquity Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "HSIC.NAS",
+    "Name": "Henry Schein",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "HST.NAS",
+    "Name": "Host Hotels & Resorts",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "HTBX.NAS",
+    "Name": "Heat Biologics Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "HTHT.NAS",
+    "Name": "Huazhu Group Ltd",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "IAC.NAS",
+    "Name": "IAC/InterActiveCorp Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "IBB.NAS",
+    "Name": "iShares Nasdaq Biotechnology ETF",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "IBKR.NAS",
+    "Name": "Interactive Brokers Group Inc. Class A Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ICFI.NAS",
+    "Name": "ICF International Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ICPT.NAS",
+    "Name": "Intercept Pharmaceuticals Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "IDCC.NAS",
+    "Name": "InterDigital Inc/PA",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "IDEX.NAS",
+    "Name": "Ideanomics Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "IDXX.NAS",
+    "Name": "IDEXX Laboratories",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "IEF.NAS",
+    "Name": "iShares 7-10 Year Treasury Bond ETF",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "IEP.NAS",
+    "Name": "Icahn Enterprises L.P. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "IFRX.NAS",
+    "Name": "Inflarx NV",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "IGAC.NAS",
+    "Name": "IG Acquisition Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "IGMS.NAS",
+    "Name": "IGM Biosciences Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "IHRT.NAS",
+    "Name": "iHeartMedia Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "IIVI.NAS",
+    "Name": "II-VI Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ILMN.NAS",
+    "Name": "Illumina Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ILPT.NAS",
+    "Name": "Industrial Logistics Properties Trust",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "IMGN.NAS",
+    "Name": "ImmunoGen Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "INCY.NAS",
+    "Name": "Incyte",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "INFN.NAS",
+    "Name": "Infinera Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "INGN.NAS",
+    "Name": "Inogen Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "INO.NAS",
+    "Name": "Inovio Pharmaceuticals Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "INSG.NAS",
+    "Name": "Inseego Corp.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "INTC.NAS",
+    "Name": "Intel Corp CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "INTU.NAS",
+    "Name": "Intuit CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "IONS.NAS",
+    "Name": "Ionis Pharmaceuticals Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "IPGP.NAS",
+    "Name": "IPG Photonics Corp.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "IRBT.NAS",
+    "Name": "iRobot Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "IRDM.NAS",
+    "Name": "Iridium Communications Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "IRTC.NAS",
+    "Name": "iRhythm Technologies Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ISBC.NAS",
+    "Name": "Investors Bancorp Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ISRG.NAS",
+    "Name": "Intuitive Surgical CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ISTB.NAS",
+    "Name": "iShares Core Short-Term USD Bond",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ITCI.NAS",
+    "Name": "Intra-Cellular Therapies Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ITRI.NAS",
+    "Name": "Itron Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "IUSB.NAS",
+    "Name": "iShares Core Total USD Bond Market ETF",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "IUSG.NAS",
+    "Name": "iShares Core US Growth ETF",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "IUSV.NAS",
+    "Name": "iShares Core US Value ETF",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "IXUS.NAS",
+    "Name": "iShares Core MSCI Total International Stock ETF",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "IZEA.NAS",
+    "Name": "IZEA Worldwide Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "JACK.NAS",
+    "Name": "Jack in the Box Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "JAZZ.NAS",
+    "Name": "Jazz Pharmaceuticals Plc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "JBHT.NAS",
+    "Name": "Jack Henry & Associates",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "JBHT.NAS",
+    "Name": "J. B. Hunt Transport Services",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "JBLU.NAS",
+    "Name": "JetBlue Airways Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "JFU.NAS",
+    "Name": "9F Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "JKHY.NAS",
+    "Name": "Jack Henry & Associates",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "JOBS.NAS",
+    "Name": "51job Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "JOUT.NAS",
+    "Name": "Johnson Outdoors Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "KDMN.NAS",
+    "Name": "Kadmon Holdings Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "KDP.NAS",
+    "Name": "Keurig Dr Pepper Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "KERN.NAS",
+    "Name": "Akerna Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "KHC.NAS",
+    "Name": "Kraft Heinz Co CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "KIN.NAS",
+    "Name": "Kindred Biosciences Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "KLAC.NAS",
+    "Name": "KLA Corporation",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "KNDI.NAS",
+    "Name": "Kandi Technologies Group Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "KTOS.NAS",
+    "Name": "Kratos Defense & Security Solutions Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "LAMR.NAS",
+    "Name": "Lamar Advertising Co.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "LAND.NAS",
+    "Name": "Gladstone Land Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "LAZR.NAS",
+    "Name": "Luminar Technologies Inc. Class A Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "LBRDA.NAS",
+    "Name": "Liberty Broadband Corporation Class A Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "LBRDK.NAS",
+    "Name": "Liberty Broadband Corporation Class C Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "LBTYA.NAS",
+    "Name": "Liberty Global PLC Class A",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "LBTYK.NAS",
+    "Name": "Liberty Global PLC Class C",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "LECO.NAS",
+    "Name": "Lincoln Electric Holdings Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "LI.NAS",
+    "Name": "LI Auto Inc (ADR)",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "LILA.NAS",
+    "Name": "Liberty Latin America Ltd",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "LITE.NAS",
+    "Name": "Lumentum Holdings Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "LKQ.NAS",
+    "Name": "LKQ Corporation",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "LLNW.NAS",
+    "Name": "Limelight Networks Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "LNT.NAS",
+    "Name": "Alliant Energy Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "LOGI.NAS",
+    "Name": "Logitech International S.A. Ordinary Shares",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "LPLA.NAS",
+    "Name": "LPL Financial Holdings Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "LPSN.NAS",
+    "Name": "LivePerson Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "LRCX.NAS",
+    "Name": "Lam Research",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "LSCC.NAS",
+    "Name": "Lattice Semiconductor Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "LSXMK.NAS",
+    "Name": "Liberty Media Corporation Series C Liberty SiriusXM Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "LTRPA.NAS",
+    "Name": "Liberty TripAdvisor Holdings Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "LTRY.NAS",
+    "Name": "Lottery.com",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "LULU.NAS",
+    "Name": "Lululemon Athletica Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "LUNA.NAS",
+    "Name": "Luna Innovations Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "LXRX.NAS",
+    "Name": "Lexicon Pharmaceuticals Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "LYFT.NAS",
+    "Name": "Lyft, Inc. CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MAR.NAS",
+    "Name": "Marriott Intl CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MARA.NAS",
+    "Name": "Marathon Digital Holdings Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MARK.NAS",
+    "Name": "Remark Holdings Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MASI.NAS",
+    "Name": "Masimo Corporation Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MAT.NAS",
+    "Name": "Mattel Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MCFE.NAS",
+    "Name": "McAfee Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MCHI.NAS",
+    "Name": "iShares MSCI China ETF",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MCHP.NAS",
+    "Name": "Microchip Technology",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MCRB.NAS",
+    "Name": "Seres Therapeutics Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MDB.NAS",
+    "Name": "MongoDB Inc. Class A Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MDIV.NAS",
+    "Name": "First Trust Multi-Asset Diversified Income Index Fund",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MDLZ.NAS",
+    "Name": "Mondelez International CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MELI.NAS",
+    "Name": "MercadoLibre Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MGI.NAS",
+    "Name": "MoneyGram International Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MITK.NAS",
+    "Name": "Mitek Systems Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MITO.NAS",
+    "Name": "Stealth BioTherapeutics Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MKSI.NAS",
+    "Name": "MKS Instruments Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MKTX.NAS",
+    "Name": "MarketAxess",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MLCO.NAS",
+    "Name": "Melco Resorts & Entertainment Ltd - ADR",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MMYT.NAS",
+    "Name": "MakeMyTrip Ltd",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MNDY.NAS",
+    "Name": "Monday.com Ltd",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MNKD.NAS",
+    "Name": "MannKind Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MNST.NAS",
+    "Name": "Monster Beverage",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MNTV.NAS",
+    "Name": "Momentive Global Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MOMO.NAS",
+    "Name": "Momo Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MORN.NAS",
+    "Name": "Morningstar Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MPWR.NAS",
+    "Name": "Monolithic Power Systems Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MRCY.NAS",
+    "Name": "Mercury Systems Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MRNA.NAS",
+    "Name": "Moderna Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MRNS.NAS",
+    "Name": "Marinus Pharmaceuticals Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MRTX.NAS",
+    "Name": "Mirati Therapeutics Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MRVL.NAS",
+    "Name": "Marvell",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MSFT.NAS",
+    "Name": "Microsoft Corp CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MSTR.NAS",
+    "Name": "MicroStrategy Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MTCH.NAS",
+    "Name": "Match Group Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MU.NAS",
+    "Name": "Micron Technology Inc CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MVIS.NAS",
+    "Name": "MicroVision Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "MXIM.NAS",
+    "Name": "Maxim Integrated Products Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NARI.NAS",
+    "Name": "Inari Medical Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NATI.NAS",
+    "Name": "National Instruments Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NAVI.NAS",
+    "Name": "Navient Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NBEV.NAS",
+    "Name": "New Age Beverages Corporation",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NBIX.NAS",
+    "Name": "Neurocrine Biosciences Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NCMI.NAS",
+    "Name": "National CineMedia Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NDAQ.NAS",
+    "Name": "Nasdaq, Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NDLS.NAS",
+    "Name": "Noodles & Co",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NDSN.NAS",
+    "Name": "Nordson Corporation Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NERV.NAS",
+    "Name": "Minerva Neurosciences Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NESR.NAS",
+    "Name": "National Energy Services Reunited Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NFLX.NAS",
+    "Name": "Netflix CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NICE.NAS",
+    "Name": "NICE Systems Ltd",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NIU.NAS",
+    "Name": "Niu Technologies",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NKLA.NAS",
+    "Name": "Nikola Corporation",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NKTR.NAS",
+    "Name": "Nektar Therapeutics",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NLOK.NAS",
+    "Name": "NortonLifeLock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NMIH.NAS",
+    "Name": "NMI Holdings Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NMRK.NAS",
+    "Name": "Newmark Group Inc - Class A",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NNDM.NAS",
+    "Name": "Nano Dimension Ltd - ADR",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NOVN.NAS",
+    "Name": "Novan Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NTAP.NAS",
+    "Name": "NetApp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NTES.NAS",
+    "Name": "NetEase Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NTLA.NAS",
+    "Name": "Intellia Therapeutics Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NTNX.NAS",
+    "Name": "Nutanix Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NTRA.NAS",
+    "Name": "Natera Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NTRS.NAS",
+    "Name": "Northern Trust Corp.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NUAN.NAS",
+    "Name": "Nuance Communications Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NUVA.NAS",
+    "Name": "NuVasive Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NVAX.NAS",
+    "Name": "Novavax Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NVCR.NAS",
+    "Name": "Novocure Ltd",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NVDA.NAS",
+    "Name": "Nvidia Corp CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NWL.NAS",
+    "Name": "Newell Brands",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NWS.NAS",
+    "Name": "News Corp. Class B",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NWSA.NAS",
+    "Name": "News Corp. Class A",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NXPI.NAS",
+    "Name": "NXP Semiconductor NV",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NXST.NAS",
+    "Name": "Nexstar Broadcasting Group Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "NYMT.NAS",
+    "Name": "New York Mortgage Trust Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "OCGN.NAS",
+    "Name": "Ocugen Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "OCUL.NAS",
+    "Name": "Ocular Therapeutix Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ODFL.NAS",
+    "Name": "Old Dominion Freight Line",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ODP.NAS",
+    "Name": "ODP Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "OKTA.NAS",
+    "Name": "Okta Inc. Class A Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "OLED.NAS",
+    "Name": "Universal Display Corporation Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "OLLI.NAS",
+    "Name": "Ollie's Bargain Outlet Holdings Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ON.NAS",
+    "Name": "ON Semiconductor Corporation Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ONEM.NAS",
+    "Name": "1Life Healthcare Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ONTX.NAS",
+    "Name": "Onconova Therapeutics Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "OPEN.NAS",
+    "Name": "Opendoor Technologies Inc Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "OPI.NAS",
+    "Name": "Office Properties Income Trust",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "OPK.NAS",
+    "Name": "Opko Health Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ORBC.NAS",
+    "Name": "ORBCOMM Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ORLY.NAS",
+    "Name": "O'Reilly Automotive",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ORTX.NAS",
+    "Name": "Orchard Therapeutics PLC",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "OSTK.NAS",
+    "Name": "Overstock.com Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "OSUR.NAS",
+    "Name": "OraSure Technologies Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "OVID.NAS",
+    "Name": "Ovid Therapeutics Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PAA.NAS",
+    "Name": "Plains All American Pipeline L",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PACB.NAS",
+    "Name": "Pacific Biosciences of California Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PAGP.NAS",
+    "Name": "Plains GP Holdings LP",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PAYX.NAS",
+    "Name": "Paychex Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PBCT.NAS",
+    "Name": "People's United Financial",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PBYI.NAS",
+    "Name": "Puma Biotechnology Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PCAR.NAS",
+    "Name": "PACCAR Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PCH.NAS",
+    "Name": "Potlatch Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PCTY.NAS",
+    "Name": "Paylocity Holding Corporation Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PCVX.NAS",
+    "Name": "Vaxcyte Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PDCE.NAS",
+    "Name": "PDC Energy Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PDCO.NAS",
+    "Name": "Patterson",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PDD.NAS",
+    "Name": "Pinduoduo Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PEGA.NAS",
+    "Name": "Pegasystems Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PENN.NAS",
+    "Name": "Penn National Gaming Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PEP.NAS",
+    "Name": "Pepsico CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PFF.NAS",
+    "Name": "iShares US Preferred Stock ETF",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PFG.NAS",
+    "Name": "Principal Financial Group",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PFLT.NAS",
+    "Name": "PennantPark Floating Rate Capital Ltd",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PFPT.NAS",
+    "Name": "Proofpoint Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PGEN.NAS",
+    "Name": "Pregicen Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PGNY.NAS",
+    "Name": "Progyny Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PINC.NAS",
+    "Name": "Premier Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PLAY.NAS",
+    "Name": "Dave & Buster's Entertainment Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PLCE.NAS",
+    "Name": "Children's Place Retail Stores",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PLUG.NAS",
+    "Name": "Plug Power Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PLYA.NAS",
+    "Name": "Playa Hotels & Resorts NV",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PNNT.NAS",
+    "Name": "PennantPark Investment Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PODD.NAS",
+    "Name": "Insulet Corporation Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "POOL.NAS",
+    "Name": "Pool Corporation",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "POWI.NAS",
+    "Name": "Power Integrations Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PRAH.NAS",
+    "Name": "PRA Health Sciences Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PRFT.NAS",
+    "Name": "Perficient Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PRQR.NAS",
+    "Name": "ProQR Therapeutics NV",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PRTK.NAS",
+    "Name": "Paratek Pharmaceuticals Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PRVB.NAS",
+    "Name": "Provention Bio Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PSEC.NAS",
+    "Name": "Prospect Capital Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PTC.NAS",
+    "Name": "PTC Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PTEN.NAS",
+    "Name": "Patterson Uti Energy",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PTON.NAS",
+    "Name": "Peloton Interactive Inc. Class A Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PVAC.NAS",
+    "Name": "Penn Virginia Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PYPL.NAS",
+    "Name": "Paypal Holdings Inc CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "PZZA.NAS",
+    "Name": "Papa John's International Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "QCOM.NAS",
+    "Name": "Qualcomm CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "QDEL.NAS",
+    "Name": "Quidel Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "QFIN.NAS",
+    "Name": "360 DigiTech Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "QIWI.NAS",
+    "Name": "QIWI plc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "QQQ.NAS",
+    "Name": "Invesco QQQ Trust CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "QRTEA.NAS",
+    "Name": "Qurate Retail Group Inc QVC Group",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "QRVO.NAS",
+    "Name": "Qorvo",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "QURE.NAS",
+    "Name": "uniQure B.V.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "RCKT.NAS",
+    "Name": "Rocket Pharmaceuticals, Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "RDFN.NAS",
+    "Name": "Redfin Corporation",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "RDWR.NAS",
+    "Name": "Radware Ltd.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "REG.NAS",
+    "Name": "Regency Centers Corporation",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "REGI.NAS",
+    "Name": "Renewable Energy Group Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "REGN.NAS",
+    "Name": "Regeneron Pharmaceuticals Inc CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "RESN.NAS",
+    "Name": "Resonant Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "RETA.NAS",
+    "Name": "Reata Pharmaceuticals Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "RGEN.NAS",
+    "Name": "Repligen Corporation Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "RIGL.NAS",
+    "Name": "Rigel Pharmaceuticals Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "RIVN.NAS",
+    "Name": "Rivian Automotive Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "RKLB.NAS",
+    "Name": "Rocket Lab USA Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ROIC.NAS",
+    "Name": "Retail Opportunity Investments",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ROKU.NAS",
+    "Name": "Roku Inc. Class A Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ROST.NAS",
+    "Name": "Ross Stores",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ROVR.NAS",
+    "Name": "Rover Group Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "RPD.NAS",
+    "Name": "Rapid7 Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "RPRX.NAS",
+    "Name": "Royalty Pharma plc Class A Ordinary Shares",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "RRGB.NAS",
+    "Name": "Red Robin Gourmet Burgers Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "RUBY.NAS",
+    "Name": "Rubius Therapeutics Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "RUN.NAS",
+    "Name": "Sunrun Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "RUTH.NAS",
+    "Name": "Ruth's Hospitality Group Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "RVMD.NAS",
+    "Name": "Revolution Medicines Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "RVNC.NAS",
+    "Name": "Revance Therapeutics Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "RYAAY.NAS",
+    "Name": "Ryanair Holdings plc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SABR.NAS",
+    "Name": "Sabre Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SAFM.NAS",
+    "Name": "Sanderson Farms Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SAGE.NAS",
+    "Name": "Sage Therapeutics Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SAMG.NAS",
+    "Name": "Silvercrest Asset Management Group Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SANM.NAS",
+    "Name": "Sanmina Sci",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SAVA.NAS",
+    "Name": "Cassava Sciences Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SBAC.NAS",
+    "Name": "SBA Communications",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SBGI.NAS",
+    "Name": "Sinclair Broadcast Group Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SBLK.NAS",
+    "Name": "Star Bulk Carriers Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SBNY.NAS",
+    "Name": "Signature Bank Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SBRA.NAS",
+    "Name": "Sabra Health Care REIT Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SBT.NAS",
+    "Name": "Sterling Bancorp Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SBTX.NAS",
+    "Name": "Silverback Therapeutics Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SBUX.NAS",
+    "Name": "Starbucks Corp CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SCVL.NAS",
+    "Name": "Shoe Carnival Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SDC.NAS",
+    "Name": "SmileDirectClub Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SDGR.NAS",
+    "Name": "Schrodinger Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SEDG.NAS",
+    "Name": "SolarEdge Technologies Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SEIC.NAS",
+    "Name": "SEI Investments Co",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SELB.NAS",
+    "Name": "Selecta Biosciences, Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SFIX.NAS",
+    "Name": "Stitch Fix INC",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SFM.NAS",
+    "Name": "Sprouts Farmers Market Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SFNC.NAS",
+    "Name": "Simmons First National Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SFT.NAS",
+    "Name": "Shift Technologies Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SGA.NAS",
+    "Name": "Saga Communications Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SGEN.NAS",
+    "Name": "Seagen Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SGHT.NAS",
+    "Name": "Sight Sciences Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SGMO.NAS",
+    "Name": "Sangamo Biosciences Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SGTX.NAS",
+    "Name": "Sigilon Therapeutics, Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SHBI.NAS",
+    "Name": "Shore Bancshares Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SHEN.NAS",
+    "Name": "Shenandoah Telecommunications Co",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SHLS.NAS",
+    "Name": "Shoals Technologies Group Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SHV.NAS",
+    "Name": "iShares Short Treasury Bond ETF",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SHY.NAS",
+    "Name": "iShares 1-3 Year Treasury Bond ETF",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SHYF.NAS",
+    "Name": "Shyft Group Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SIER.NAS",
+    "Name": "Sierra Lake Acquisition Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SIFY.NAS",
+    "Name": "Sify Technologies Ltd",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SILC.NAS",
+    "Name": "Silicom Ltd",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SILK.NAS",
+    "Name": "Silk Road Medical Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SIMO.NAS",
+    "Name": "Silicon Motion Technology Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SIRI.NAS",
+    "Name": "Sirius XM Holdings Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SITM.NAS",
+    "Name": "SiTime Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SIVB.NAS",
+    "Name": "SVB Financial",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SKYW.NAS",
+    "Name": "SkyWest Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SKYY.NAS",
+    "Name": "First Trust ISE Cloud Computing Index Fund",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SLAB.NAS",
+    "Name": "Silicon Laboratories Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SLGN.NAS",
+    "Name": "Silgan Holdings Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SLM.NAS",
+    "Name": "SLM",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SMH.NAS",
+    "Name": "Market Vectors Semiconductor ETF",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SMTC.NAS",
+    "Name": "Semtech Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SNDL.NAS",
+    "Name": "Sundial Growers Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SNDX.NAS",
+    "Name": "Syndax Pharmaceuticals Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SNEX.NAS",
+    "Name": "StoneX Group Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SNPS.NAS",
+    "Name": "Synopsys Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SNSR.NAS",
+    "Name": "Global X Internet of Things ETF",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SOFI.NAS",
+    "Name": "SoFi Technologies",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SOLO.NAS",
+    "Name": "Electrameccanica Vehicles Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SONO.NAS",
+    "Name": "Sonos",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SOXX.NAS",
+    "Name": "iShares PHLX Semiconductor ETF",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SPLK.NAS",
+    "Name": "Splunk Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SPNS.NAS",
+    "Name": "Sapiens International Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SPPI.NAS",
+    "Name": "Spectrum Pharmaceuticals Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SPTN.NAS",
+    "Name": "SpartanNash Co",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SPWH.NAS",
+    "Name": "Sportsmans Warehouse Holdings Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SPWR.NAS",
+    "Name": "SunPower Corporation Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SRCL.NAS",
+    "Name": "Stericycle",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SRNE.NAS",
+    "Name": "Sorrento Therapeutics Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SRPT.NAS",
+    "Name": "Sarepta Therapeutics Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SRRA.NAS",
+    "Name": "Sierra Oncology Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SSNC.NAS",
+    "Name": "SS&C Technologies Holdings Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SSRM.NAS",
+    "Name": "Silver Standard Resources Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SSSS.NAS",
+    "Name": "Sutter Rock Capital Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SSTI.NAS",
+    "Name": "Shotspotter Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "STAY.NAS",
+    "Name": "Extended Stay America Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "STCN.NAS",
+    "Name": "Steel Connect Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "STEP.NAS",
+    "Name": "StepStone Group Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "STER.NAS",
+    "Name": "Sterling Check Corp.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "STFC.NAS",
+    "Name": "State Auto Financial Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "STGW.NAS",
+    "Name": "Stagwell Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "STKL.NAS",
+    "Name": "SunOpta Inc (US)",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "STLD.NAS",
+    "Name": "Steel Dynamics",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "STMP.NAS",
+    "Name": "Stamps.com Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "STNE.NAS",
+    "Name": "StoneCo Ltd.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "STOK.NAS",
+    "Name": "Stoke Therapeutics Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "STRL.NAS",
+    "Name": "Sterling Construction Company Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "STX.NAS",
+    "Name": "Seagate Technology",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SURF.NAS",
+    "Name": "Surface Oncology Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SVC.NAS",
+    "Name": "Service Properties Trust",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SWAV.NAS",
+    "Name": "Shockwave Medical Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SWBI.NAS",
+    "Name": "Smith & Wesson Brands Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SWIR.NAS",
+    "Name": "Sierra Wireless Inc (US)",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SWKS.NAS",
+    "Name": "Skyworks Solutions",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SY.NAS",
+    "Name": "So-Young International Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SYNA.NAS",
+    "Name": "Synaptics Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "SYNH.NAS",
+    "Name": "Syneos Health Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TACO.NAS",
+    "Name": "Del Taco Restaurants Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TCOM.NAS",
+    "Name": "TRIP.COM GROUP LTD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TDUP.NAS",
+    "Name": "ThredUp Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TEAM.NAS",
+    "Name": "Atlassian",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TECH.NAS",
+    "Name": "Bio-Techne Corp Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TELL.NAS",
+    "Name": "Tellurian",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TER.NAS",
+    "Name": "Teradyne",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TFSL.NAS",
+    "Name": "TFS Financial Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "THRY.NAS",
+    "Name": "Thryv Holdings Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TIGO.NAS",
+    "Name": "Millicom International Cellular SA",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TLRY.NAS",
+    "Name": "Tilray Inc CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TLT.NAS",
+    "Name": "iShares 20+ Year Treasury Bond ETF CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TMUS.NAS",
+    "Name": "T-Mobile US CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TNDM.NAS",
+    "Name": "Tandem Diabetes Care Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TNXP.NAS",
+    "Name": "Tonix Pharmaceuticals Holding Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TPIC.NAS",
+    "Name": "TPI Composites Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TREE.NAS",
+    "Name": "LendingTree Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TRIP.NAS",
+    "Name": "TripAdvisor",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TRMB.NAS",
+    "Name": "Trimble Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TROW.NAS",
+    "Name": "T. Rowe Price Group",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TRVG.NAS",
+    "Name": "Trivago NV",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TRVN.NAS",
+    "Name": "Trevena Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TSBK.NAS",
+    "Name": "Timberland Bancorp Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TSCO.NAS",
+    "Name": "Tractor Supply Company",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TSEM.NAS",
+    "Name": "Tower Semiconductor Ltd",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TSLA.NAS",
+    "Name": "Tesla Motors CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TTCF.NAS",
+    "Name": "Tattooed Chef Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TTD.NAS",
+    "Name": "The Trade Desk Inc. Class A Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TTOO.NAS",
+    "Name": "T2 Biosystems Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TTWO.NAS",
+    "Name": "Take-Two Interactive",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TVTY.NAS",
+    "Name": "Tivity Health Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TWKS.NAS",
+    "Name": "Thoughtworks Holding Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TXG.NAS",
+    "Name": "10x Genomics Inc. Class A Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TXMD.NAS",
+    "Name": "TherapeuticsMD Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TXN.NAS",
+    "Name": "Texas Instruments CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "TXRH.NAS",
+    "Name": "Texas Roadhouse Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "UAL.NAS",
+    "Name": "United Airlines Holdings",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "UEIC.NAS",
+    "Name": "Universal Electronics Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ULTA.NAS",
+    "Name": "Ulta Beauty",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "UNIT.NAS",
+    "Name": "Uniti Group Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "UPST.NAS",
+    "Name": "Upstart Holdings Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "UPWK.NAS",
+    "Name": "Upwork Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "URBN.NAS",
+    "Name": "Urban Outfitters",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "URGN.NAS",
+    "Name": "UroGen Pharma Ltd.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "USCR.NAS",
+    "Name": "US Concrete Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "USIO.NAS",
+    "Name": "Usio Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "UTHR.NAS",
+    "Name": "United Therapeutics Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "VBIV.NAS",
+    "Name": "VBI Vaccines Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "VC.NAS",
+    "Name": "Visteon Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "VCYT.NAS",
+    "Name": "Veracyte Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "VECO.NAS",
+    "Name": "Veeco Instruments Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "VEON.NAS",
+    "Name": "Veon Ltd",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "VG.NAS",
+    "Name": "Vontier",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "VIAC.NAS",
+    "Name": "ViacomCBS",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "VIAV.NAS",
+    "Name": "Viavi Solutions Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "VINC.NAS",
+    "Name": "Vincerx Pharma Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "VINP.NAS",
+    "Name": "Vinci Partners Investments Ltd",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "VIOT.NAS",
+    "Name": "Viomi Technology Co Ltd",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "VIR.NAS",
+    "Name": "Vir Biotechnology Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "VKTX.NAS",
+    "Name": "Viking Therapeutics, Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "VNOM.NAS",
+    "Name": "Viper Energy Partners LP",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "VONG.NAS",
+    "Name": "Vanguard Russell 1000 Growth ETF",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "VRA.NAS",
+    "Name": "Vera Bradley Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "VRAY.NAS",
+    "Name": "ViewRay Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "VREX.NAS",
+    "Name": "Varex Imaging Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "VRM.NAS",
+    "Name": "Vroom Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "VRSK.NAS",
+    "Name": "Verisk Analytics",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "VRSN.NAS",
+    "Name": "Verisign Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "VRTX.NAS",
+    "Name": "Vertex Pharma CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "VSTM.NAS",
+    "Name": "Verastem Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "VTIP.NAS",
+    "Name": "Vanguard Short-Term Inflation-Protected Securities ETF",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "VTRS.NAS",
+    "Name": "Viatris",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "VUZI.NAS",
+    "Name": "Vuzix Corporation",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "VXRT.NAS",
+    "Name": "Vaxart Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "VYGR.NAS",
+    "Name": "Voyager Therapeutics, Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "VYNE.NAS",
+    "Name": "Vyne Therapeutics Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "WATT.NAS",
+    "Name": "Energous Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "WB.NAS",
+    "Name": "Weibo Corp",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "WBA.NAS",
+    "Name": "Walgreens Boots Alliance Inc CFD",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "WDAY.NAS",
+    "Name": "Workday Inc. Class A Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "WDC.NAS",
+    "Name": "Western Digital",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "WEN.NAS",
+    "Name": "Wendys/Arby",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "WERN.NAS",
+    "Name": "Werner Enterprises Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "WETF.NAS",
+    "Name": "WisdomTree Investments Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "WIMI.NAS",
+    "Name": "WiMi Hologram Cloud Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "WISH.NAS",
+    "Name": "ContextLogic Inc. Class A Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "WIX.NAS",
+    "Name": "Wix.com Ltd",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "WKHS.NAS",
+    "Name": "Workhorse Group Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "WLTW.NAS",
+    "Name": "Willis Towers Watson",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "WMG.NAS",
+    "Name": "Warner Music Group Corp. Class A Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "WTRH.NAS",
+    "Name": "Waitr Holdings Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "WW.NAS",
+    "Name": "Weight Watchers International",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "WYNN.NAS",
+    "Name": "Wynn Resorts Ltd",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "XBIT.NAS",
+    "Name": "XBiotech Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "XCUR.NAS",
+    "Name": "Exicure Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "XEL.NAS",
+    "Name": "Xcel Energy Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "XGN.NAS",
+    "Name": "Exagen Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "XLNX.NAS",
+    "Name": "Xilinx",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "XNET.NAS",
+    "Name": "Xunlei Ltd",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "XP.NAS",
+    "Name": "Xp Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "XRAY.NAS",
+    "Name": "Dentsply Sirona",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "XSPA.NAS",
+    "Name": "XpresSpa Group Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "YNDX.NAS",
+    "Name": "Yandex NV",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "Z.NAS",
+    "Name": "Zillow Group Inc. Class C Capital Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ZBRA.NAS",
+    "Name": "Zebra Technologies",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ZG.NAS",
+    "Name": "Zillow Group Inc. Class A Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ZI.NAS",
+    "Name": "ZoomInfo Technologies Inc. Class A Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ZION.NAS",
+    "Name": "Zions Bancorp Inc.",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ZM.NAS",
+    "Name": "Zoom Video Communications Inc. Class A Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ZNGA.NAS",
+    "Name": "Zynga Inc. Class A Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ZS.NAS",
+    "Name": "Zscaler Inc. Common Stock",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ZYNE.NAS",
+    "Name": "Zynerba Pharmaceuticals Inc",
+    "Exchange": "NASDAQ"
+  },
+  {
+    "Symbol": "ZYXI.NAS",
+    "Name": "Zynex Inc",
+    "Exchange": "NASDAQ"
+  }
+]

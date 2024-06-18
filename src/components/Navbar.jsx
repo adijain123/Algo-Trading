@@ -37,16 +37,16 @@ const Navbar = () => {
           </nav>
           {(!localStorage.getItem("authToken")) ?
           <>
-          <Link className="inline-flex mx-2 items-center font-bold bg-pink-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0" to="/login">
+          <Link className="inline-flex mx-2 items-center font-bold border border-pink-400 py-1 px-3 focus:outline-none hover:bg-pink-800 rounded text-base mt-4 md:mt-0" to="/login">
             Login
           </Link>
-          <Link className="inline-flex items-center font-bold bg-pink-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0" to="/signup">
+          <Link className="inline-flex items-center font-bold border border-pink-400 py-1 px-3 focus:outline-none hover:bg-pink-800 rounded text-base mt-4 md:mt-0" to="/signup">
             SignUp
           </Link>
           </>
           :
           <>
-          <Link className="inline-flex m-2 items-center bg-pink-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded font-bold text-base mt-4 md:mt-0" onClick={handleLogout}>
+          <Link className="inline-flex m-2 items-center border border-pink-400 py-1 px-3 focus:outline-none hover:bg-pink-800 rounded font-bold text-base mt-4 md:mt-0" onClick={handleLogout}>
             Logout
           </Link>
           <div className='inline-flex p-2 font-bold text-xl text-lime-200'>

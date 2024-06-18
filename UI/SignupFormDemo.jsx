@@ -107,7 +107,7 @@ export function SignupFormDemo() {
           Already a User, Login Here &rarr;
           <BottomGradient />
         </Link>
-        <div className="bg-gradient-to-r from-transparent via-neutral-300 dark:via-neutral-700 to-transparent my-6 h-[1px] w-full" />
+        {/* <div className="bg-gradient-to-r from-transparent via-neutral-300 dark:via-neutral-700 to-transparent my-6 h-[1px] w-full" /> */}
         {/* <Label>Sign Up With</Label>
         <div className="flex flex-col space-y-4">
           <button
