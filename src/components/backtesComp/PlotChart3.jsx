@@ -1,20 +1,15 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect } from 'react';
 import Plot from 'react-plotly.js';
-import fallbackData from '../../data.json'; 
 
-const PlotlyChart = ({ plotData, result }) => {
+const PlotlyChart3 = ({ohlc, symbol}) => {
   
-  const ohlc = fallbackData.ohlc; // Use fallback data if props.data is undefined or empty
-  
-  const parsedPlotData = plotData ? JSON.parse(plotData) : null;
-
   useEffect(() => {
     // Any side effects based on `ohlc` can be handled here
   }, [ohlc]);
 
-  const plotData2 = [
+  const plotData = [
     {
-      x: ohlc.map(data => data.time.slice(16,22)),
+      x: ohlc.map(data => data.time.slice(5,12)),
       close: ohlc.map(data => data.Close),
       decreasing: { line: { color: 'red' } },
       high: ohlc.map(data => data.High),
@@ -29,7 +24,7 @@ const PlotlyChart = ({ plotData, result }) => {
 
   const layout = {
     title: {
-      text: result ? result.properties.symbolInfo : 'AAPL.NAS (2nd May 2023)',
+      text: symbol+" (2024)",
       font: {
         size: 24,  // Increase the font size
         weight: 'bold',  // Make the title bold
@@ -48,9 +43,9 @@ const PlotlyChart = ({ plotData, result }) => {
       },
       gridcolor: '',    // grid line color
       zerolinecolor: '#444444', // zero line color
-      // tickfont: {
-      //   size: 13,  // Adjust x-axis label font size
-      // }
+      tickfont: {
+        size: 11,  // Adjust x-axis label font size
+      }
     },
     yaxis: {
       title: 'Price',
@@ -75,13 +70,13 @@ const PlotlyChart = ({ plotData, result }) => {
 
   return (
     <Plot
-      data={parsedPlotData ? parsedPlotData.data : plotData2}
+      data={plotData}
       layout={layout}
       useResizeHandler
       style={{ width: '100%', height: '100%' }}
-      config={parsedPlotData ? parsedPlotData.config : config}  
+      config={{displayModeBar: true}}  
     />
   );  
 };
 
-export default PlotlyChart;
+export default PlotlyChart3;

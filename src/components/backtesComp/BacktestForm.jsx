@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import data from '../../../stock.json';
 
-const BacktestForm = ({ onResult }) => {
+const BacktestForm = ({ onResult, sym }) => {
   const [strategy, setStrategy] = useState('');
   const [symbol, setSymbol] = useState('');
   const [timeframe, setTimeframe] = useState('');
@@ -13,6 +13,7 @@ const BacktestForm = ({ onResult }) => {
   const [beforeResult, setBeforeResult] = useState(1);
   const [suggestions, setSuggestions] = useState([]);
   const [showSuggestions, setShowSuggestions] = useState(false);
+  const [Sym, setSym] = useState(sym);
 
   useEffect(() => {
     if (symbol) {
@@ -80,9 +81,12 @@ const BacktestForm = ({ onResult }) => {
           <div className="relative"> {/* This will be the positioning context for the suggestions */}
           <input
           type="text"
-          value={symbol}
+          value={(Sym)?Sym:symbol}
           placeholder='eg: AAPL.NAS, GOOGL.NAS'
-          onChange={(e) => setSymbol(e.target.value)}
+          onChange={(e) => {
+            setSymbol(e.target.value);
+            setSym(e.target.value);
+          }}
           className="bg-gray-900 text-white p-2 rounded w-full"
           required
         />
@@ -93,6 +97,7 @@ const BacktestForm = ({ onResult }) => {
             key={stock.Symbol}
             onClick={() => {
             setSymbol(stock.Symbol);
+            setSym(stock.Symbol);
             setShowSuggestions(false);
           }}
           className="p-2 cursor-pointer hover:bg-gray-700"
