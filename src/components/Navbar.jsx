@@ -34,6 +34,7 @@ const Navbar = () => {
             <NavLink className={(e) => (e.isActive ? "mr-5 text-blue-500" : "mr-5 hover:text-white")} to="/backtesting">Backtesting</NavLink>
             <NavLink className={(e) => (e.isActive ? "mr-5 text-blue-500" : "mr-5 hover:text-white")} to="/strategybuilder">Strategy Builder</NavLink>
             <NavLink className={(e) => (e.isActive ? "mr-5 text-blue-500" : "mr-5 hover:text-white")} to="/about">About Us</NavLink>
+            <NavLink className={(e) => (e.isActive ? "mr-5 text-blue-500" : "mr-5 hover:text-white")} to="/discuss">Community</NavLink>
           </nav>
           {(!localStorage.getItem("authToken")) ?
           <>

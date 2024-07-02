@@ -3,6 +3,7 @@ import './App.css'
 import Navbar from './components/Navbar'
 import Home from './components/Home';
 import About from './components/About';
+import Discuss from './components/Discuss';
 import Backtesting from './components/Backtesting';
 import StrategyBuilder from './components/StrategyBuilder';
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
@@ -30,6 +31,10 @@ function App() {
      path: "/about", 
      element: <><Navbar/><About /></>,
     },
+    {
+      path: "/discuss", 
+      element: <><Navbar/><Discuss /></>,
+     },
     
     {
       path: "/signup", 
@@ -39,6 +44,7 @@ function App() {
       path: "/login", 
       element: <> <Loginpage /></>,
      },
+     
 
   ]);
   return (
