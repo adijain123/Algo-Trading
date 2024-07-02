@@ -2,9 +2,9 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import data from '../../../stock.json';
 
-const BacktestForm = ({ onResult }) => {
+const BacktestForm = ({ onResult, sym }) => {
   const [strategy, setStrategy] = useState('');
-  const [symbol, setSymbol] = useState('');
+  const [symbol, setSymbol] = useState(sym);
   const [timeframe, setTimeframe] = useState('');
   const [datefrom, setDatefrom] = useState('');
   const [dateto, setDateto] = useState('');
@@ -82,7 +82,7 @@ const BacktestForm = ({ onResult }) => {
           type="text"
           value={symbol}
           placeholder='eg: AAPL.NAS, GOOGL.NAS'
-          onChange={(e) => setSymbol(e.target.value)}
+          onChange={(e) => {setSymbol(e.target.value);}}
           className="bg-gray-900 text-white p-2 rounded w-full"
           required
         />

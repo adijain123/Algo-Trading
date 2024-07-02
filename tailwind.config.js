@@ -14,6 +14,9 @@ module.exports = {
   theme: {
     extend: {
       // your config here
+      maxWidth: {
+        'break-words': 'break-word',
+      },
     }
   },
   plugins: [
