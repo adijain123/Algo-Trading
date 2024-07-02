@@ -114,13 +114,14 @@ const DiscussStyles = () => (
       display: flex;
     }
     .discuss-showMoreButton {
-      margin-top: 0px;
-      padding: 0px 1px;
-      background-color: #6c757d;
-      color: #fff;
+      margin: 10px 0; /* Add space above and below the button */
+      padding: 10px 20px; /* Increase padding for better appearance */
+      background-color: #fff;
+      color: #000;
       border: none;
       border-radius: 3px;
       cursor: pointer;
+      font-weight: bold; /* Make the button text bold */
     }
   `}</style>
 );
