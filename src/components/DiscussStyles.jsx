@@ -38,7 +38,7 @@ const DiscussStyles = () => (
       border: 1px solid #ccc;
       border-radius: 4px;
       position: relative;
-      background-color: #fff; /* Ensure background is white */
+      background-color: #eeeeee; /* Ensure background is white */
     }
     .discuss-question {
       font-size: 18px;
