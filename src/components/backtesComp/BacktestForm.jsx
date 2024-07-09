@@ -9,10 +9,10 @@ const BacktestForm = ({ onResult, sym }) => {
   const [datefrom, setDatefrom] = useState('');
   const [dateto, setDateto] = useState('');
   const [cash, setCash] = useState(5000); // default value set to 5000
-  const [noResult, setNoResult] = useState(null);
-  const [beforeResult, setBeforeResult] = useState(1);
   const [suggestions, setSuggestions] = useState([]);
   const [showSuggestions, setShowSuggestions] = useState(false);
+  const [loading, setLoading] = useState(false);
+  const [err, setErr] = useState(false);
 
   useEffect(() => {
     if (symbol) {
@@ -29,8 +29,9 @@ const BacktestForm = ({ onResult, sym }) => {
   }, [symbol]);
 
   const handleSubmit = async (e) => {
+    setLoading(true)
+    setErr(false)
     e.preventDefault();
-    setBeforeResult(null);
 
     // Convert date inputs to Unix timestamps
     const datefromTimestamp = Math.floor(new Date(datefrom).getTime() / 1000);
@@ -47,10 +48,18 @@ const BacktestForm = ({ onResult, sym }) => {
 
     try {
       const response = await axios.post('http://127.0.0.1:5000/api/backtest', payload);
-      setNoResult(null);
       onResult(response.data);
-    } catch (error) {
-      setNoResult(1);
+      if(response){
+        setLoading(false);
+        setErr(false)
+      }
+    } 
+    catch (error) {
+      setLoading(false)
+      setErr(true)
+      if(error.response.status==500){
+        alert(`Date range is too high for selected timeframe \n Usually occurs for timeframe less than 1 day`)
+      }
       console.error('Error fetching backtest data', error);
     }
   };
@@ -161,16 +170,8 @@ const BacktestForm = ({ onResult, sym }) => {
 
         <button type="submit" className="hover:bg-blue-900 border border-blue-600 p-2 rounded w-full mt-3">Backtest</button>
       </form>
-      {/* <h1 className='text-center text-xl italic mt-4'>" It is far better to foresee even without certainty than not to foresee at all " <br /> — Henri Poincare </h1> */}
-       {/* {beforeResult && 
-     <>
-       <h1 className="text-center md:text-3xl text-2xl lg:text-5xl mt-6 font-bold text-amber-200">Searching for the Best Results <br /> Start Backtesting . . . .</h1>
-     </>
-       } */
-      }
-      {/* {noResult && 
-        <h1 className="text-center font-bold text-lime-300">OOPs Backend Server Error </h1>
-      } */}
+    <>{ loading && <div className='text-center text-lg'>Loading....</div> }</>
+    <>{ err && <div className='text-center text-red-600'>Error in fetching data</div> }</>
     </div>
   );
 };

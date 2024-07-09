@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import DiscussStyles from './DiscussStyles';
+import { Link } from 'react-router-dom';
 
 const Discuss = () => {
   const [questions, setQuestions] = useState([]);
@@ -63,8 +64,11 @@ const Discuss = () => {
   };
 
   return (
+    <>
+     {(localStorage.getItem("authToken")) ?
     <div className="discuss-container">
       <DiscussStyles />
+      <h1 className='text-3xl text-yellow-500 text-center font-semibold'>Welcome, <span className='capitalize'>{localStorage.getItem("name")}</span></h1>
       <div className="discuss-title">Discuss</div>
       <div className="discuss-newQuestion">
         <textarea
@@ -92,7 +96,7 @@ const Discuss = () => {
               onKeyPress={(e) => handleKeyPress(e, () => handleSaveQuestion(qIndex))}
             />
           ) : (
-            <div className="discuss-question">{question.text}</div>
+            <div className="text-black font-medium"> <span className='capitalize font-bold text-red-600'>{localStorage.getItem("name")} :</span> {question.text}</div>
           )}
           {editingQuestion === qIndex ? (
             <button className="discuss-saveButton" onClick={() => handleSaveQuestion(qIndex)}>
@@ -126,7 +130,7 @@ const Discuss = () => {
                     onKeyPress={(e) => handleKeyPress(e, handleSaveReply)}
                   />
                 ) : (
-                  <div>{reply}</div>
+                  <div><span className='capitalize font-bold text-green-700'>Anonymous :</span> {reply}</div>
                 )}
                 {editingReply?.qIndex === qIndex && editingReply?.rIndex === rIndex ? (
                   <button className="discuss-saveButton" onClick={handleSaveReply}>
@@ -166,6 +170,17 @@ const Discuss = () => {
         </div>
       ))}
     </div>
+    : 
+     <div className="relative w-full h-[89vh] bg-cover bg-center" style={{ backgroundImage: "url('../../Images/community.jpg')" }}>
+     <div className="absolute inset-0 bg-black bg-opacity-50 backdrop-blur-md flex items-center justify-center">
+       <Link to="/Login" className="bg-red-600 hover:bg-red-800 text-white font-bold text-2xl py-3 px-6 rounded-lg">
+         Login
+       </Link>
+     </div>
+    </div>
+
+    }
+    </>
   );
 };
 
