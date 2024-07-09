@@ -171,7 +171,7 @@ const Discuss = () => {
       ))}
     </div>
     : 
-     <div className="relative w-full h-[89vh] bg-cover bg-center" style={{ backgroundImage: "url('../../Images/community.jpg')" }}>
+     <div className="relative w-full h-[89vh] bg-cover bg-center" style={{ backgroundImage: "url('../src/Images/community.jpg')" }}>
      <div className="absolute inset-0 bg-black bg-opacity-50 backdrop-blur-md flex items-center justify-center">
        <Link to="/Login" className="bg-red-600 hover:bg-red-800 text-white font-bold text-2xl py-3 px-6 rounded-lg">
          Login
