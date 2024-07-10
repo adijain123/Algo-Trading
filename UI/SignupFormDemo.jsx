@@ -39,7 +39,7 @@ export function SignupFormDemo() {
       }
 
       else{
-        axios.post('http://127.0.0.1:5000/signup', {
+        axios.post('https://quant-flask-backend.onrender.com/signup', {
             firstname:firstname,
             lastname:lastname,
             email: email,

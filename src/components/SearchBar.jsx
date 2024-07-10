@@ -40,9 +40,10 @@ const SearchBar = () => {
     setLoading("loading")
     setQuery(suggestion.Name);
     setSuggestions([]);
-    const symbol = suggestion.Symbol
+    const symbol1 = suggestion.Symbol.split('.')[0];
+    const symbol = suggestion.Symbol;
     try {
-      const response = await axios.post('http://127.0.0.1:5000/liveChart', {symbol});
+      const response = await axios.post('https://quant-flask-backend.onrender.com/liveChart', {symbol1});
       setStock(response.data)
       setSym(symbol)
     } catch (error) {
@@ -57,7 +58,7 @@ const SearchBar = () => {
     setSuggestions([]);
     const symbol1 = suggestion.Symbol.split('.')[0];
     try {
-      const response = await axios.post('http://127.0.0.1:5000/companyinfo', {symbol1});
+      const response = await axios.post('https://quant-flask-backend.onrender.com/companyinfo', {symbol1});
       setCompanyinfo(response.data)
       setLoading(null)
     } catch (error) {

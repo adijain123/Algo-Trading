@@ -5,9 +5,7 @@ import data from '../../../stock.json';
 const BacktestForm = ({ onResult, sym }) => {
   const [strategy, setStrategy] = useState('');
   const [symbol, setSymbol] = useState(sym);
-  const [timeframe, setTimeframe] = useState('');
-  const [datefrom, setDatefrom] = useState('');
-  const [dateto, setDateto] = useState('');
+  const [period, setPeriod] = useState('');
   const [cash, setCash] = useState(5000); // default value set to 5000
   const [suggestions, setSuggestions] = useState([]);
   const [showSuggestions, setShowSuggestions] = useState(false);
@@ -32,22 +30,17 @@ const BacktestForm = ({ onResult, sym }) => {
     setLoading(true)
     setErr(false)
     e.preventDefault();
-
-    // Convert date inputs to Unix timestamps
-    const datefromTimestamp = Math.floor(new Date(datefrom).getTime() / 1000);
-    const datetoTimestamp = Math.floor(new Date(dateto).getTime() / 1000);
+    const sym = symbol.split('.')[0]
 
     const payload = {
       strategy,
-      symbol,
-      timeframe,
+      sym,
       cash,
-      datetimefrom: datefromTimestamp,
-      datetimeto: datetoTimestamp,
+      period
     };
 
     try {
-      const response = await axios.post('http://127.0.0.1:5000/api/backtest', payload);
+      const response = await axios.post('https://quant-flask-backend.onrender.com/api/backtest', payload);
       onResult(response.data);
       if(response){
         setLoading(false);
@@ -63,8 +56,6 @@ const BacktestForm = ({ onResult, sym }) => {
       console.error('Error fetching backtest data', error);
     }
   };
-
-  const maxDate = new Date().toISOString().split('T')[0]; // Get today's date in YYYY-MM-DD format
 
   return (
     <div className='w-11/12 mx-auto'>
@@ -116,20 +107,20 @@ const BacktestForm = ({ onResult, sym }) => {
         <div>
           <label className="block text-gray-400">Period</label>
           <select
-            value={timeframe}
-            onChange={(e) => setTimeframe(e.target.value)}
+            value={period}
+            onChange={(e) => setPeriod(e.target.value)}
             className="bg-gray-900 text-white p-2 rounded w-full"
             required
           >
-            <option value="">Select Timeframe</option>
-            <option value="1 minutes">1 minutes</option>
-            <option value="5 minutes">5 minutes</option>
-            <option value="15 minutes">15 minutes</option>
-            <option value="30 minutes">30 minutes</option>
-            <option value="1 hour">1 hour</option>
-            <option value="1 day">1 day</option>
-            <option value="1 week">1 week</option>
-            <option value="1 month">1 month</option>
+            <option value="">Select Period</option>
+            <option value="1mo">3 month</option>
+            <option value="6mo">6 month</option>
+            <option value="1y">1 year</option>
+            <option value="2y">2 year</option>
+            <option value="5y">5 year</option>
+            <option value="10y">10 year</option>
+            <option value="ytd">ytd</option>
+            <option value="max">max</option>
           </select>
         </div>
         <div>
@@ -142,28 +133,6 @@ const BacktestForm = ({ onResult, sym }) => {
             className="bg-gray-900 text-white p-2 rounded w-full"
             step="1000"
             min="5000"
-            required
-          />
-        </div>
-        <div>
-          <label className="block text-gray-400">Date from</label>
-          <input
-            type="date"
-            value={datefrom}
-            onChange={(e) => setDatefrom(e.target.value)}
-            className="bg-gray-300 text-black p-2 rounded w-full"
-            max={maxDate}
-            required
-          />
-        </div>
-        <div>
-          <label className="block text-gray-400">Date to</label>
-          <input
-            type="date"
-            value={dateto}
-            onChange={(e) => setDateto(e.target.value)}
-            className="bg-gray-700 text-white p-2 rounded w-full"
-            max={maxDate}
             required
           />
         </div>
