@@ -20,7 +20,7 @@ const About = () => {
                 <img
                   alt="team"
                   className="rounded-lg w-full h-56 object-cover object-center mb-4"
-                  src="../src/assets/adi2.jpg"
+                  src="./adi2.jpg"
                 />
                 <h2 className="title-font font-medium text-xl text-black text-center">Adi Jain</h2>
                 <h3 className="text-black mb-3 text-center">Full Stack Developer & Quantitative Analyst</h3>
@@ -55,7 +55,7 @@ const About = () => {
                 <img
                   alt="team"
                   className="rounded-lg w-full h-56 object-cover object-center mb-4"
-                  src="../src/assets/manvendra.jpg"
+                  src="./manvendra.jpg"
                 />
                 <h2 className="title-font font-medium text-xl text-black text-center">Manvendra Saini</h2>
                 <h3 className="text-black mb-3 text-center">Frontend Developer & Quantitative Analyst</h3>
@@ -90,7 +90,7 @@ const About = () => {
                 <img
                   alt="team"
                   className="rounded-lg w-full h-56 object-cover object-center mb-4"
-                  src="../src/assets/dhruv.jpg"
+                  src="./dhruv.jpg"
                 />
                 <h2 className="title-font font-medium text-xl text-black text-center">Dhruv </h2>
                 <h3 className="text-black mb-3 text-center">Backend Developer & Quantitative Analyst</h3>
@@ -125,7 +125,7 @@ const About = () => {
                 <img
                   alt="team"
                   className="rounded-lg w-full h-56 object-cover object-center mb-4"
-                  src="../src/assets/rishi.jpg"
+                  src="./rishi.jpg"
                 />
                 <h2 className="title-font font-medium text-xl text-black text-center">Rishi Rathore</h2>
                 <h3 className="text-black mb-3 text-center">Backend Developer & Quantitative Analyst</h3>
