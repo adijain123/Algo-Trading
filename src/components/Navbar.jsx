@@ -52,7 +52,7 @@ const Navbar = () => {
               <path d="M3 12h18M3 6h18M3 18h18" />
             </svg>
           </button>
-          <nav className="hidden md:flex md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-700 flex flex-wrap items-center text-base justify-center">
+          <nav className="hidden md:flex md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-700  flex-wrap items-center text-base justify-center">
             <NavLink className={(e) => (e.isActive ? "mr-5 text-blue-500" : "mr-5 hover:text-white")} to="/">Home</NavLink>
             <NavLink className={(e) => (e.isActive ? "mr-5 text-blue-500" : "mr-5 hover:text-white")} to="/backtesting">Backtesting</NavLink>
             <NavLink className={(e) => (e.isActive ? "mr-5 text-blue-500" : "mr-5 hover:text-white")} to="/about">About Us</NavLink>
@@ -70,7 +70,7 @@ const Navbar = () => {
               </>
             ) : (
               <>
-                <Link className="inline-flex m-2 items-center border border-pink-400 py-1 px-3 focus:outline-none hover:bg-pink-800 rounded font-bold text-base mt-4 md:mt-0" onClick={handleLogout}>
+                <Link className="inline-flex m-2 items-center py-1 px-3 focus:outline-none hover:text-white rounded font-bold text-base mt-4 md:mt-0" onClick={handleLogout}>
                   Logout
                 </Link>
                 <div className="inline-flex p-2 font-bold text-xl text-lime-200">
@@ -84,7 +84,7 @@ const Navbar = () => {
         </div>
       </header>
       <div className={`fixed inset-0 bg-black z-[100] bg-opacity-75 transition-opacity ${isSidebarOpen ? 'opacity-100' : 'opacity-0 pointer-events-none'}`}>
-        <div className={`fixed top-0 left-0 h-full w-64 bg-gray-700 transform transition-transform ${isSidebarOpen ? 'translate-x-0' : '-translate-x-full'}`}>
+        <div className={`fixed top-0 left-0 h-full w-64 bg-gray-950 transform transition-transform ${isSidebarOpen ? 'translate-x-0' : '-translate-x-full'}`}>
           <button 
             className="absolute top-4 right-4 focus:outline-none" 
             onClick={toggleSidebar}
