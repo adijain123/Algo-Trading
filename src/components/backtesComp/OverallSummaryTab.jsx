@@ -45,7 +45,7 @@ const PerformanceSummaryTab = ({ data }) => {
           <div>Win Rate: <span className="text-blue-500">{winRate}%</span></div>  
         </div>
         <div className="space-y-2 m-3">
-          <div>Expectancy: <span className="text-orange-500">{expectancy}%</span></div>
+          {/* <div>Expectancy: <span className="text-orange-500">{expectancy}%</span></div> */}
           {/* <div>SQN: <span className="text-teal-500">{sqn}</span></div> */}
           <div>Best Trade: <span className="text-green-500">{bestTrade}%</span></div>
           <div>Worst Trade: <span className="text-red-500">{worstTrade}%</span></div>
