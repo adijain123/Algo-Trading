@@ -24,9 +24,7 @@ const About = () => {
                 />
                 <h2 className="title-font font-medium text-xl text-black text-center">Adi Jain</h2>
                 <h3 className="text-black mb-3 text-center">Full Stack Developer & Quantitative Analyst</h3>
-                <p className="leading-relaxed mb-4 text-center text-gray-900">
-                  DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.
-                </p>
+                
                 <div className="flex justify-center">
                   <a target="_blank" href="https://www.linkedin.com/in/adi-jain-336277260/" className="text-gray-400 hover:text-white mx-2">
                     <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="40" height="40" viewBox="0,0,300,150" style={{ fill: "#118dff" }}>
@@ -59,9 +57,7 @@ const About = () => {
                 />
                 <h2 className="title-font font-medium text-xl text-black text-center">Manvendra Saini</h2>
                 <h3 className="text-black mb-3 text-center">Frontend Developer & Quantitative Analyst</h3>
-                <p className="leading-relaxed mb-4 text-center text-gray-900">
-                  DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.
-                </p>
+                
                 <div className="flex justify-center">
                   <a target="_blank" href="https://www.linkedin.com/in/manvendra-saini/"  className="text-gray-400 hover:text-white mx-2">
                     <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="40" height="40" viewBox="0,0,300,150" style={{ fill: "#118dff" }}>
@@ -94,9 +90,7 @@ const About = () => {
                 />
                 <h2 className="title-font font-medium text-xl text-black text-center">Dhruv </h2>
                 <h3 className="text-black mb-3 text-center">Backend Developer & Quantitative Analyst</h3>
-                <p className="leading-relaxed mb-4 text-center text-gray-900">
-                  DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.
-                </p>
+               
                 <div className="flex justify-center">
                   <a target="_blank" href="https://www.linkedin.com/in/dhruv-dhirawani-8b6b9225a/" className="text-gray-400 hover:text-white mx-2">
                      <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="40" height="40" viewBox="0,0,300,150" style={{ fill: "#118dff" }}>
@@ -129,9 +123,7 @@ const About = () => {
                 />
                 <h2 className="title-font font-medium text-xl text-black text-center">Rishi Rathore</h2>
                 <h3 className="text-black mb-3 text-center">Backend Developer & Quantitative Analyst</h3>
-                <p className="leading-relaxed mb-4  text-center text-gray-900">
-                  DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.
-                </p>
+                
                 <div className="flex justify-center">
                   <a target="_blank" href="https://www.linkedin.com/in/rishi-rathore-1a4224211/" className="text-gray-400 hover:text-white mx-2">
                     <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="40" height="40" viewBox="0,0,300,150" style={{ fill: "#118dff" }}>
