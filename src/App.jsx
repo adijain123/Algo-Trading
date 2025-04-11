@@ -20,7 +20,7 @@ function App() {
 
     {
       path: "/backtesting", 
-      element: <><Navbar/><Backtesting /></>,
+      element: <><Navbar/><Backtesting /><Footer/></>,
      },
 
      {
