@@ -69,13 +69,15 @@ const PlotlyChart3 = ({ohlc, symbol}) => {
   };
 
   return (
+    <div className="bg-black rounded-lg border border-blue-900 shadow-lg overflow-hidden">
     <Plot
       data={plotData}
       layout={layout}
       useResizeHandler
-      style={{ width: '100%', height: '100%' }}
+      style={{ width: '100%', height: '500px' }}
       config={{displayModeBar: true}}  
     />
+  </div>
   );  
 };
 

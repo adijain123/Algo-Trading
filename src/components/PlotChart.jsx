@@ -29,11 +29,13 @@ const PlotlyChart = ({ plotData, result }) => {
 
   const layout = {
     title: {
-      text: result ? result.properties.symbolInfo : 'AAPL.NAS (2nd May 2023)',
+      text: result ? result.properties.symbolInfo : 'AAPL.NAS (2nd May 2023) (default)',
       font: {
         size: 24,  // Increase the font size
         weight: 'bold',  // Make the title bold
       },
+      y: 0.95,  // Increase this value to add more padding at the top (0.9 is default)
+      yanchor: 'top'
     },
     dragmode: 'zoom',
     showlegend: true,
@@ -58,7 +60,7 @@ const PlotlyChart = ({ plotData, result }) => {
       zerolinecolor: '#444444' // zero line color
     },
     margin: {
-      t: 40,  // Adjust top margin to position plot area below title
+      t: 60,  // Increased top margin to provide more space for the title
     },
     paper_bgcolor: '000000',  // background color
     plot_bgcolor: '000000',   // plot area background color
@@ -74,13 +76,15 @@ const PlotlyChart = ({ plotData, result }) => {
   };
 
   return (
-    <Plot
-      data={parsedPlotData ? parsedPlotData.data : plotData2}
-      layout={layout}
-      useResizeHandler
-      style={{ width: '100%', height: '100%' }}
-      config={parsedPlotData ? parsedPlotData.config : config}  
-    />
+    <div className="bg-gray-950 rounded-lg border border-blue-900 shadow-lg overflow-hidden">
+      <Plot
+        data={parsedPlotData ? parsedPlotData.data : plotData2}
+        layout={layout}
+        useResizeHandler
+        style={{ width: '100%', height: '100%' }}
+        config={parsedPlotData ? parsedPlotData.config : config}  
+      />
+    </div>
   );  
 };
 

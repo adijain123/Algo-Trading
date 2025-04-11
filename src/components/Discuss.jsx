@@ -1,187 +1,157 @@
-import React, { useState } from 'react';
-import DiscussStyles from './DiscussStyles';
-import { Link } from 'react-router-dom';
+import React from "react";
 
-const Discuss = () => {
-  const [questions, setQuestions] = useState([]);
-  const [newQuestion, setNewQuestion] = useState('');
-  const [editingQuestion, setEditingQuestion] = useState(null);
-  const [editingReply, setEditingReply] = useState(null);
-  const [showAllReplies, setShowAllReplies] = useState({});
+const blogPosts = [
+  {
+    id: 1,
+    title: "Sector Rotation Strategies for Long-Term Investors",
+    summary:
+      "Explore how sector rotation strategies can enhance investment plans by reallocating between defensive and cyclical sectors based on economic cycles.",
+    date: "July 19, 2024",
+    author: "Bookmap Insights",
+    category: "Investment Strategies",
+    image:
+      "https://bookmap.com/wp-content/uploads/2024/07/2_result-29.webp",
+    url: "https://bookmap.com/blog/sector-rotation-strategies-for-long-term-investors-maximizing-returns-by-capitalizing-on-market-trends",
+  },
+  {
+    id: 2,
+    title: "Top 15 Most Popular Trading Strategies in 2025",
+    summary:
+      "Discover effective trading strategies like scalping, trend following, swing trading, and arbitrage to navigate the dynamic markets of 2025.",
+    date: "April 8, 2025",
+    author: "Demetris Makrides & Vitaly Makarenko",
+    category: "Trading Strategies",
+    image:
+      "https://wp.quadcode.com/wp-content/uploads/2025/04/Top_15_Most_Popular_Trading_Strategies-3-1024x512.png",
+    url: "https://quadcode.com/blog/top-15-most-popular-trading-strategies",
+  },
+  {
+    id: 3,
+    title: "Top Algorithmic Trading Strategies of 2025",
+    summary:
+      "Learn about algorithmic trading strategies like trend following, arbitrage, and mean reversion to optimize trades with automation.",
+    date: "January 20, 2025",
+    author: "Pocketful.in Experts",
+    category: "Algorithmic Trading",
+    image:
+      "https://wp-api.pocketful.in/blog/wp-content/uploads/2025/01/Algorithmic-Trading-Strategies-1.jpg",
+    url: "https://www.pocketful.in/blog/trading/algorithmic-trading-strategies/",
+  },
+  {
+    id: 4,
+    title: "Momentum Trading vs. Swing Trading: Which Strategy Works Best in 2025?",
+    summary:
+      "Compare momentum and swing trading strategies, focusing on their benefits, risks, and suitability for different market conditions.",
+    date: "October 3, 2024",
+    author: "Noor Kaur",
+    category: "Technical Analysis",
+    image:
+      "https://master-trust-strapi.s3.ap-south-1.amazonaws.com/algo_trading_banner_01_160d1a39cb.jpg",
+    url: "https://www.mastertrust.co.in/blog/momentum-trading-vs-swing-trading-which-strategy-works-best-in-2025",
+  },
+];
 
-  const handleNewQuestionChange = (e) => setNewQuestion(e.target.value);
-  const handleNewQuestionSubmit = () => {
-    if (newQuestion.trim()) {
-      setQuestions([...questions, { text: newQuestion, replies: [], newReply: '' }]);
-      setNewQuestion('');
-    }
-  };
-
-  const handleNewReplyChange = (index, text) => {
-    const newQuestions = [...questions];
-    newQuestions[index].newReply = text;
-    setQuestions(newQuestions);
-  };
-
-  const handleNewReplySubmit = (index) => {
-    const newQuestions = [...questions];
-    if (newQuestions[index].newReply.trim()) {
-      newQuestions[index].replies.push(newQuestions[index].newReply);
-      newQuestions[index].newReply = '';
-      setQuestions(newQuestions);
-    }
-  };
-
-  const handleEditQuestion = (index) => setEditingQuestion(index);
-  const handleEditReply = (qIndex, rIndex) => setEditingReply({ qIndex, rIndex });
-  const handleSaveQuestion = (index) => setEditingQuestion(null);
-  const handleSaveReply = () => setEditingReply(null);
-
-  const handleDeleteQuestion = (index) => {
-    const newQuestions = [...questions];
-    newQuestions.splice(index, 1);
-    setQuestions(newQuestions);
-  };
-
-  const handleDeleteReply = (qIndex, rIndex) => {
-    const newQuestions = [...questions];
-    newQuestions[qIndex].replies.splice(rIndex, 1);
-    setQuestions(newQuestions);
-  };
-
-  const handleKeyPress = (event, callback) => {
-    if (event.key === 'Enter' && !event.shiftKey) {
-      event.preventDefault();
-      callback();
-    }
-  };
-
-  const toggleShowAllReplies = (qIndex) => {
-    setShowAllReplies((prevState) => ({
-      ...prevState,
-      [qIndex]: !prevState[qIndex],
-    }));
-  };
-
+const Blog = () => {
   return (
-    <>
-     {(localStorage.getItem("authToken")) ?
-    <div className="discuss-container">
-      <DiscussStyles />
-      <h1 className='text-3xl text-yellow-500 text-center font-semibold'>Welcome, <span className='capitalize'>{localStorage.getItem("name")}</span></h1>
-      <div className="discuss-title">Discuss</div>
-      <div className="discuss-newQuestion">
-        <textarea
-          className="discuss-textarea"
-          value={newQuestion}
-          onChange={handleNewQuestionChange}
-          onKeyPress={(e) => handleKeyPress(e, handleNewQuestionSubmit)}
-          placeholder="Type your question here..."
-        />
-        <button className="discuss-submitButton" onClick={handleNewQuestionSubmit}>
-          Submit
-        </button>
-      </div>
-      {questions.map((question, qIndex) => (
-        <div key={qIndex} className="discuss-questionContainer">
-          {editingQuestion === qIndex ? (
-            <textarea
-              className="discuss-textarea"
-              value={question.text}
-              onChange={(e) => {
-                const newQuestions = [...questions];
-                newQuestions[qIndex].text = e.target.value;
-                setQuestions(newQuestions);
-              }}
-              onKeyPress={(e) => handleKeyPress(e, () => handleSaveQuestion(qIndex))}
-            />
-          ) : (
-            <div className="text-black font-medium"> <span className='capitalize font-bold text-red-600'>{localStorage.getItem("name")} :</span> {question.text}</div>
-          )}
-          {editingQuestion === qIndex ? (
-            <button className="discuss-saveButton" onClick={() => handleSaveQuestion(qIndex)}>
-              Save
-            </button>
-          ) : (
-            <>
-              <div className="discuss-threeDots">...</div>
-              <div className="discuss-buttonContainer">
-                <button className="discuss-editButton" onClick={() => handleEditQuestion(qIndex)}>
-                  Edit
-                </button>
-                <button className="discuss-deleteButton" onClick={() => handleDeleteQuestion(qIndex)}>
-                  Delete
-                </button>
+    <div className="min-h-screen bg-gray-900 text-gray-100">
+      {/* Header with gradient */}
+      <header className="bg-gradient-to-r from-blue-900 to-black py-16 px-6">
+        <div className="max-w-7xl mx-auto">
+          <h1 className="text-5xl font-bold text-white mb-4">QuantTrader</h1>
+          <p className="text-blue-300 text-xl">
+            Advanced insights on algorithmic trading and market analysis
+          </p>
+        </div>
+      </header>
+
+      {/* Main content */}
+      <div className="max-w-7xl mx-auto py-12 px-6">
+        {/* Featured section */}
+        <div className="mb-16">
+          <div className="flex justify-between items-center mb-8">
+            <h2 className="text-3xl font-semibold text-blue-400">Latest Articles</h2>
+            <div className="flex space-x-2">
+            </div>
+          </div>
+
+          {/* Featured post - larger display */}
+          <div className="bg-gradient-to-br from-gray-800 to-blue-900 rounded-2xl overflow-hidden shadow-blue-900/30 shadow-lg mb-12">
+            <div className="flex flex-col md:flex-row">
+              <div className="md:w-1/2">
+                <img
+                  src={blogPosts[0].image}
+                  alt={blogPosts[0].title}
+                  className="w-full h-64 md:h-full object-cover"
+                />
               </div>
-            </>
-          )}
-          <div className="discuss-replyContainer">
-            {question.replies.slice(0, showAllReplies[qIndex] ? question.replies.length : 2).map((reply, rIndex) => (
-              <div key={rIndex} className="discuss-reply">
-                {editingReply?.qIndex === qIndex && editingReply?.rIndex === rIndex ? (
-                  <textarea
-                    className="discuss-textarea"
-                    value={reply}
-                    onChange={(e) => {
-                      const newQuestions = [...questions];
-                      newQuestions[qIndex].replies[rIndex] = e.target.value;
-                      setQuestions(newQuestions);
-                    }}
-                    onKeyPress={(e) => handleKeyPress(e, handleSaveReply)}
-                  />
-                ) : (
-                  <div><span className='capitalize font-bold text-green-700'>Anonymous :</span> {reply}</div>
-                )}
-                {editingReply?.qIndex === qIndex && editingReply?.rIndex === rIndex ? (
-                  <button className="discuss-saveButton" onClick={handleSaveReply}>
-                    Save
-                  </button>
-                ) : (
-                  <>
-                    <div className="discuss-threeDots">...</div>
-                    <div className="discuss-buttonContainer">
-                      <button className="discuss-editButton" onClick={() => handleEditReply(qIndex, rIndex)}>
-                        Edit
-                      </button>
-                      <button className="discuss-deleteButton" onClick={() => handleDeleteReply(qIndex, rIndex)}>
-                        Delete
-                      </button>
-                    </div>
-                  </>
-                )}
+              <div className="md:w-1/2 p-8 flex flex-col justify-center">
+                <span className="text-blue-400 text-sm font-medium mb-2">{blogPosts[0].category}</span>
+                <h3 className="text-2xl font-bold text-white mb-4">{blogPosts[0].title}</h3>
+                <p className="text-gray-300 mb-6">{blogPosts[0].summary}</p>
+                <div className="flex justify-between items-center">
+                  <p className="text-sm text-blue-300">
+                    {blogPosts[0].date} · by {blogPosts[0].author}
+                  </p>
+                  <a
+                    href={blogPosts[0].url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-blue-400 hover:text-blue-300 font-medium flex items-center transition-colors"
+                  >
+                    Read more 
+                    <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 ml-1" viewBox="0 0 20 20" fill="currentColor">
+                      <path fillRule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clipRule="evenodd" />
+                    </svg>
+                  </a>
+                </div>
               </div>
-            ))}
-            {question.replies.length > 2 && (
-              <button className="discuss-showMoreButton" onClick={() => toggleShowAllReplies(qIndex)}>
-                {showAllReplies[qIndex] ? 'Show Less' : 'Show More'}
-              </button>
-            )}
-            <textarea
-              className="discuss-textarea"
-              value={question.newReply || ''}
-              onChange={(e) => handleNewReplyChange(qIndex, e.target.value)}
-              onKeyPress={(e) => handleKeyPress(e, () => handleNewReplySubmit(qIndex))}
-              placeholder="Type your reply here..."
-            />
-            <button className="discuss-replyButton" onClick={() => handleNewReplySubmit(qIndex)}>
-              Reply
-            </button>
+            </div>
           </div>
         </div>
-      ))}
-    </div>
-    : 
-     <div className="relative w-full h-[89vh] bg-cover bg-center" style={{ backgroundImage: "url('./community.jpg')" }}>
-     <div className="absolute inset-0 bg-black bg-opacity-50 backdrop-blur-md flex items-center justify-center">
-       <Link to="/Login" className="bg-red-600 hover:bg-red-800 text-white font-bold text-2xl py-3 px-6 rounded-lg">
-         Login
-       </Link>
-     </div>
-    </div>
 
-    }
-    </>
+        {/* Content layout */}
+        <div className="flex flex-col lg:flex-row gap-8">
+          {/* Main content - Blog posts */}
+          <div className="w-full">
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+              {blogPosts.slice(1).map((post) => (
+                <div
+                  key={post.id}
+                  className="bg-gray-800 rounded-xl overflow-hidden hover:shadow-lg hover:shadow-blue-900/20 transition-all duration-300 border border-gray-700"
+                >
+                  <img
+                    src={post.image}
+                    alt={post.title}
+                    className="w-full h-48 object-cover"
+                  />
+                  <div className="p-6">
+                    <span className="text-blue-400 text-xs font-medium mb-2 block">{post.category}</span>
+                    <h2 className="text-xl font-semibold text-white mb-3">
+                      {post.title}
+                    </h2>
+                    <p className="text-gray-300 mb-4 text-sm">{post.summary}</p>
+                    <div className="flex justify-between items-center">
+                      <p className="text-xs text-gray-400">
+                        {post.date} · by {post.author}
+                      </p>
+                      <a
+                        href={post.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-blue-400 hover:text-blue-300 font-medium text-sm transition-colors"
+                      >
+                        Read more →
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   );
 };
 
-export default Discuss;
+export default Blog;

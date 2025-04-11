@@ -36,6 +36,7 @@ const layout = {
 };
 
   return (
+    <div className="bg-black rounded-lg border border-blue-900 shadow-lg overflow-hidden">
     <Plot
       data={parsedPlotData.data}
       layout={layout}
@@ -43,6 +44,8 @@ const layout = {
       style={{ width: '100%', height: '100%' }}
       config={parsedPlotData.config && {displayModeBar: true}}
     />
+    </div>
+    
   );
 };
 

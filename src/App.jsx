@@ -1,4 +1,4 @@
-import { useState } from 'react'
+
 import './App.css'
 import Navbar from './components/Navbar'
 import Home from './components/Home';
@@ -9,12 +9,13 @@ import StrategyBuilder from './components/StrategyBuilder';
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { SignupFormDemo } from '../UI/SignupFormDemo';
 import { Loginpage } from '../UI/Loginpage';
+import Footer from './components/Footer';
 
 function App() {
   const router = createBrowserRouter([
     {
       path: "/",
-      element: <><Navbar/><Home /></>,
+      element: <><Navbar/><Home /><Footer/></>,
     },
 
     {
@@ -29,11 +30,11 @@ function App() {
 
     {
      path: "/about", 
-     element: <><Navbar/><About /></>,
+     element: <><Navbar/><About /><Footer/></>,
     },
     {
       path: "/discuss", 
-      element: <><Navbar/><Discuss /></>,
+      element: <><Navbar/><Discuss /><Footer/></>,
      },
     
     {

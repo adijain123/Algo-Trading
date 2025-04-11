@@ -23,37 +23,104 @@ const PerformanceSummaryTab = ({ data }) => {
   const profitFactor = data?.profitFactor ?? 'N/A';
 
   return (
-    <>
-      <span className='font-normal m-4'>Overall performance summary</span>
-      <div className="md:grid md:grid-cols-3 gap-4">
-        <div className="space-y-2 m-3">
-          <div>Exposure Time: <span className="text-yellow-500">{exposureTime}%</span></div>
-          <div>Equity Final: <span className="text-purple-400">${equityFinal}</span></div>
-          <div>Equity Peak: <span className="text-indigo-400">${equityPeak}</span></div>
-          <div>Return: <span className="text-pink-500">{returnVal}%</span></div>
-          <div>Buy and Hold Return: <span className="text-orange-500">{buyAndHoldReturn}%</span></div>
-          <div>Return (Annualized): <span className="text-teal-500">{annualReturn}%</span></div>
-          <div>Volatility (Annualized): <span className="text-blue-500">{annualVolatility}%</span></div>
+    <div className="space-y-6">
+      <div className="flex items-center space-x-2 mb-6">
+        <div className="w-1 h-8 bg-blue-500 rounded"></div>
+        <h3 className="text-xl font-bold text-blue-400">Performance Summary</h3>
+      </div>
+      
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div className="bg-gray-800 p-6 rounded-xl border border-blue-900/50 shadow-lg transition-all hover:shadow-blue-900/20 hover:border-blue-700/50">
+          <h4 className="text-blue-400 font-medium mb-4 pb-2 border-b border-blue-900/30">Key Metrics</h4>
+          <ul className="space-y-4">
+            <li className="flex justify-between items-center">
+              <span className="text-gray-400 text-sm">Exposure Time</span>
+              <span className="text-purple-300 font-semibold">{exposureTime}%</span>
+            </li>
+            <li className="flex justify-between items-center">
+              <span className="text-gray-400 text-sm">Equity Final</span>
+              <span className="text-purple-300 font-semibold">${equityFinal}</span>
+            </li>
+            <li className="flex justify-between items-center">
+              <span className="text-gray-400 text-sm">Equity Peak</span>
+              <span className="text-purple-300 font-semibold">${equityPeak}</span>
+            </li>
+            <li className="flex justify-between items-center">
+              <span className="text-gray-400 text-sm">Return</span>
+              <span className="text-purple-300 font-semibold">{returnVal}%</span>
+            </li>
+            <li className="flex justify-between items-center">
+              <span className="text-gray-400 text-sm">Buy and Hold Return</span>
+              <span className="text-purple-300 font-semibold">{buyAndHoldReturn}%</span>
+            </li>
+            <li className="flex justify-between items-center">
+              <span className="text-gray-400 text-sm">Return (Annualized)</span>
+              <span className="text-purple-300 font-semibold">{annualReturn}%</span>
+            </li>
+            <li className="flex justify-between items-center">
+              <span className="text-gray-400 text-sm">Volatility (Annualized)</span>
+              <span className="text-purple-300 font-semibold">{annualVolatility}%</span>
+            </li>
+          </ul>
         </div>
-        <div className="space-y-2 m-3">
-          {/* <div>Sharpe Ratio: <span className="text-green-500">{sharpeRatio}</span></div>
-          <div>Sortino Ratio: <span className="text-red-500">{sortinoRatio}</span></div> */}
-          <div>Calmar Ratio: <span className="text-yellow-500">{calmarRatio}</span></div>
-          <div>Max Drawdown: <span className="text-purple-500">{maxDrawdown}%</span></div>
-          <div>Avg Drawdown: <span className="text-indigo-500">{avgDrawdown}%</span></div>
-          <div>Trades: <span className="text-teal-500">{trades}</span></div>
-          <div>Win Rate: <span className="text-blue-500">{winRate}%</span></div>  
+        
+        <div className="bg-gray-800 p-6 rounded-xl border border-blue-900/50 shadow-lg transition-all hover:shadow-blue-900/20 hover:border-blue-700/50">
+          <h4 className="text-blue-400 font-medium mb-4 pb-2 border-b border-blue-900/30">Risk Analysis</h4>
+          <ul className="space-y-4">
+            <li className="flex justify-between items-center">
+              <span className="text-gray-400 text-sm">Sharpe Ratio</span>
+              <span className="text-purple-300 font-semibold">{sharpeRatio}</span>
+            </li>
+            <li className="flex justify-between items-center">
+              <span className="text-gray-400 text-sm">Sortino Ratio</span>
+              <span className="text-purple-300 font-semibold">{sortinoRatio}</span>
+            </li>
+            <li className="flex justify-between items-center">
+              <span className="text-gray-400 text-sm">Calmar Ratio</span>
+              <span className="text-purple-300 font-semibold">{calmarRatio}</span>
+            </li>
+            <li className="flex justify-between items-center">
+              <span className="text-gray-400 text-sm">Max Drawdown</span>
+              <span className="text-purple-300 font-semibold">{maxDrawdown}%</span>
+            </li>
+            <li className="flex justify-between items-center">
+              <span className="text-gray-400 text-sm">Avg Drawdown</span>
+              <span className="text-purple-300 font-semibold">{avgDrawdown}%</span>
+            </li>
+          </ul>
         </div>
-        <div className="space-y-2 m-3">
-          {/* <div>Expectancy: <span className="text-orange-500">{expectancy}%</span></div> */}
-          {/* <div>SQN: <span className="text-teal-500">{sqn}</span></div> */}
-          <div>Best Trade: <span className="text-green-500">{bestTrade}%</span></div>
-          <div>Worst Trade: <span className="text-red-500">{worstTrade}%</span></div>
-          <div>Avg Trade: <span className="text-yellow-500">{avgTrade}%</span></div>
-          <div>Profit Factor: <span className="text-pink-500">{profitFactor}</span></div>
+        
+        <div className="bg-gray-800 p-6 rounded-xl border border-blue-900/50 shadow-lg transition-all hover:shadow-blue-900/20 hover:border-blue-700/50">
+          <h4 className="text-blue-400 font-medium mb-4 pb-2 border-b border-blue-900/30">Trade Statistics</h4>
+          <ul className="space-y-4">
+            <li className="flex justify-between items-center">
+              <span className="text-gray-400 text-sm">Total Trades</span>
+              <span className="text-purple-300 font-semibold">{trades}</span>
+            </li>
+            <li className="flex justify-between items-center">
+              <span className="text-gray-400 text-sm">Win Rate</span>
+              <span className="text-purple-300 font-semibold">{winRate}%</span>
+            </li>
+            <li className="flex justify-between items-center">
+              <span className="text-gray-400 text-sm">Best Trade</span>
+              <span className="text-purple-300 font-semibold">{bestTrade}%</span>
+            </li>
+            <li className="flex justify-between items-center">
+              <span className="text-gray-400 text-sm">Worst Trade</span>
+              <span className="text-purple-300 font-semibold">{worstTrade}%</span>
+            </li>
+            <li className="flex justify-between items-center">
+              <span className="text-gray-400 text-sm">Avg Trade</span>
+              <span className="text-purple-300 font-semibold">{avgTrade}%</span>
+            </li>
+            <li className="flex justify-between items-center">
+              <span className="text-gray-400 text-sm">Profit Factor</span>
+              <span className="text-purple-300 font-semibold">{profitFactor}</span>
+            </li>
+          </ul>
         </div>
       </div>
-    </>
+    </div>
   );
 };
 
