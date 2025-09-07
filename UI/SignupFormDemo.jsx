@@ -53,7 +53,7 @@ export function SignupFormDemo() {
     setIsLoading(true);
 
     try {
-      const response = await axios.post('https://quant-flask-backend.onrender.com/signup', {
+      const response = await axios.post('https://algotrading-apewaubbe4g8h9gx.eastasia-01.azurewebsites.net/signup', {
         firstname: firstname,
         lastname: lastname,
         email: email,

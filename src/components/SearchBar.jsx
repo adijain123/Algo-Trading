@@ -43,7 +43,7 @@ const SearchBar = () => {
     const symbol1 = suggestion.Symbol.split('.')[0];
     const symbol = suggestion.Symbol;
     try {
-      const response = await axios.post('https://quant-flask-backend.onrender.com/liveChart', {symbol1});
+      const response = await axios.post('https://algotrading-apewaubbe4g8h9gx.eastasia-01.azurewebsites.net/liveChart', {symbol1});
       setStock(response.data)
       setSym(symbol)
     } catch (error) {
@@ -58,7 +58,7 @@ const SearchBar = () => {
     setSuggestions([]);
     const symbol1 = suggestion.Symbol.split('.')[0];
     try {
-      const response = await axios.post('https://quant-flask-backend.onrender.com/companyinfo', {symbol1});
+      const response = await axios.post('https://algotrading-apewaubbe4g8h9gx.eastasia-01.azurewebsites.net/companyinfo', {symbol1});
       setCompanyinfo(response.data)
       setLoading(null)
     } catch (error) {

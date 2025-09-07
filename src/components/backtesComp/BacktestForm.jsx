@@ -40,7 +40,7 @@ const BacktestForm = ({ onResult, sym }) => {
     };
 
     try {
-      const response = await axios.post('https://quant-flask-backend.onrender.com/api/backtest', payload);
+      const response = await axios.post('https://algotrading-apewaubbe4g8h9gx.eastasia-01.azurewebsites.net/api/backtest', payload);
       onResult(response.data);
       if(response){
         setLoading(false);

@@ -43,7 +43,7 @@ export function Loginpage() {
     setIsLoading(true);
 
     try {
-      const response = await axios.post('https://quant-flask-backend.onrender.com/login', {
+      const response = await axios.post('https://algotrading-apewaubbe4g8h9gx.eastasia-01.azurewebsites.net/login', {
         email: email,
         password: password
       });

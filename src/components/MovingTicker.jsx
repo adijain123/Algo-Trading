@@ -9,7 +9,7 @@ const StockTicker = () => {
   const loadData = async () => {
     try {
       setStatus('loading');
-      let response = await fetch("https://quant-flask-backend.onrender.com/stockdata", {
+      let response = await fetch("https://algotrading-apewaubbe4g8h9gx.eastasia-01.azurewebsites.net/stockdata", {
         method: "POST",
         headers: {
           "Content-Type": 'application/json'
