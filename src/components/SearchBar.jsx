@@ -40,12 +40,12 @@ const SearchBar = () => {
     setLoading("loading")
     setQuery(suggestion.Name);
     setSuggestions([]);
-    const symbol1 = suggestion.Symbol.split('.')[0];
-    const symbol = suggestion.Symbol;
+    const symbol = suggestion.Symbol.split('.')[0];
+    const symbol1 = suggestion.Symbol;
     try {
-      const response = await axios.post('https://algotrading-apewaubbe4g8h9gx.eastasia-01.azurewebsites.net/liveChart', {symbol1});
+      const response = await axios.post('https://algotrading-apewaubbe4g8h9gx.eastasia-01.azurewebsites.net/liveChart', {symbol});
       setStock(response.data)
-      setSym(symbol)
+      setSym(symbol1)
     } catch (error) {
       console.error('Error fetching backtest data', error);
     }
