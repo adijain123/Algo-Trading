@@ -40,12 +40,12 @@ const SearchBar = () => {
     setLoading("loading")
     setQuery(suggestion.Name);
     setSuggestions([]);
-    const symbol = suggestion.Symbol.split('.')[0];
-    const symbol1 = suggestion.Symbol;
+    const symbol1 = suggestion.Symbol.split('.')[0];
+    const symbol = suggestion.Symbol;
     try {
-      const response = await axios.post('https://algotrading-apewaubbe4g8h9gx.eastasia-01.azurewebsites.net/liveChart', {symbol});
+      const response = await axios.post('https://algotrading-apewaubbe4g8h9gx.eastasia-01.azurewebsites.net/liveChart', {symbol1});
       setStock(response.data)
-      setSym(symbol1)
+      setSym(symbol)
     } catch (error) {
       console.error('Error fetching backtest data', error);
     }
@@ -56,15 +56,15 @@ const SearchBar = () => {
     setLoading("loading")
     setQuery(suggestion.Name);
     setSuggestions([]);
-    const symbol1 = suggestion.Symbol.split('.')[0];
+    const symbol = suggestion.Symbol.split('.')[0];
     try {
-      const response = await axios.post('https://algotrading-apewaubbe4g8h9gx.eastasia-01.azurewebsites.net/companyinfo', {symbol1});
+      const response = await axios.post('https://algotrading-apewaubbe4g8h9gx.eastasia-01.azurewebsites.net/companyinfo', {symbol});
       setCompanyinfo(response.data)
       setLoading(null)
     } catch (error) {
       console.error('Error fetching backtest data', error);
     }
-    console.log(symbol1);
+    console.log(symbol);
   }
 
   return (
