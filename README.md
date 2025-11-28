@@ -266,47 +266,6 @@ The API returns comprehensive backtest results including:
 - Strategy properties
 - Equity curve plot data
 
-## 🚢 Deployment
-
-### Vercel Deployment
-
-The project is configured for Vercel deployment with `vercel.json`:
-
-```json
-{
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/" }
-  ]
-}
-```
-
-**Deploy to Vercel:**
-1. Install Vercel CLI: `npm i -g vercel`
-2. Run: `vercel`
-3. Follow the prompts
-
-### GitHub Pages Deployment
-
-The project includes scripts for GitHub Pages deployment:
-
-```bash
-npm run deploy
-```
-
-This will:
-1. Build the project
-2. Deploy to the `gh-pages` branch
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ### Development Guidelines
 
 - Follow the existing code style
@@ -332,17 +291,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Dhruv
 - Manvendra
 - Rishi
-
-## 🔗 Links
-
-- [Live Demo](#) - Add your deployment URL here
-- [Documentation](#) - Add documentation link if available
-- [Issue Tracker](#) - Add GitHub issues link
-
-## 📧 Contact
-
-For questions, suggestions, or support, please open an issue on GitHub or contact the development team.
-
----
 
 **Built with ❤️ for the trading community**
