@@ -245,7 +245,7 @@ npm run lint         # Run ESLint
 The application integrates with a backend API for backtesting functionality:
 
 **Backend Endpoint:**
-- Base URL: `https://algotrading-apewaubbe4g8h9gx.eastasia-01.azurewebsites.net`
+- Base URL: `https://quant-flask-backend.onrender.com`
 - Backtest API: `POST /api/backtest`
 
 **Request Payload:**
